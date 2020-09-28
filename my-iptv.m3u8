@@ -2,7 +2,7 @@
 #PLAYLIST:rickyrsn
 #EXTINF:0 tvg-country="UK" tvg-logo="" group-title="Sport",Dorna MotoGP HD
 https://dornatoken.secure.footprint.net/token=nva=1601222402~dirs=2~token=0450011a8713fdfd367a3/hls/ipfmix/4.m3u8
-#EXTINF:0 tvg-country="UK" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/BT_Sport_2_HD.svg/revision/latest/scale-to-width-down/199?cb=20191227182617" group-title="Sport",BT SPORT 2 HD
+#EXTINF:0 tvg-country="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/BTSPORT_2_BLACK_RGB.png" group-title="Sport",BT SPORT 2 HD
 http://ingrid.ltd:25461/frank1/frank/3398?checkedby:hlscat.com
 #EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
 http://136.243.177.164/ANIMALPLANET/playlist.m3u8?checkedby:hlscat.com
