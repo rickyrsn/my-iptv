@@ -20,9 +20,10 @@
     <icon src="https://mncvision.id/userfiles/image/channel/channel_116.jpg" />
     <url>http://www.mncvision.id.E</url>
   </channel>
-  <channel id="Disney Junior HDTV East (DISJR)">
-    <display-name lang="en">Disney Junior HDTV East (DISJR)</display-name>
-    <url>http://www.tv.com</url>
+  <channel id="Disney Junior USA - East">
+    <display-name lang="en">Disney Junior USA - East</display-name>
+    <icon src="https://tvtv.us/tvm/i/image/station/100x100/disney_junior.png" />
+    <url>http://www.tvtv.us</url>
   </channel>
   <channel id="Berita Satu">
     <display-name lang="id">Berita Satu</display-name>
@@ -44,9 +45,6 @@
     <icon src="https://mncvision.id/userfiles/image/channel/channel_445.png" />
     <url>http://www.mncvision.id.E</url>
   </channel>
-  <programme start="20200929190000 +0700" stop="20200929203000 +0700" channel="TRANS TV">
-    <title lang="id">Santuy Malam</title>
-  </programme>
   <programme start="20200929203000 +0700" stop="20200929213000 +0700" channel="TRANS TV">
     <title lang="id">CNN Indonesia Prime News</title>
   </programme>
@@ -55,15 +53,6 @@
   </programme>
   <programme start="20200929233000 +0700" stop="20200930013000 +0700" channel="TRANS TV">
     <title lang="id">Bioskop Trans TV</title>
-  </programme>
-  <programme start="20200929190500 +0700" stop="20200929200000 +0700" channel="Metro TV">
-    <title lang="id">Primetalk With Rory</title>
-  </programme>
-  <programme start="20200929200000 +0700" stop="20200929200500 +0700" channel="Metro TV">
-    <title lang="id">Headline News</title>
-  </programme>
-  <programme start="20200929200500 +0700" stop="20200929210000 +0700" channel="Metro TV">
-    <title lang="id">Hot Room</title>
   </programme>
   <programme start="20200929210000 +0700" stop="20200929210500 +0700" channel="Metro TV">
     <title lang="id">Headline News</title>
@@ -86,9 +75,6 @@
   <programme start="20200929233000 +0700" stop="20200930000000 +0700" channel="Metro TV">
     <title lang="id">Primetime News</title>
   </programme>
-  <programme start="20200929190000 +0700" stop="20200929200000 +0700" channel="Trans 7">
-    <title lang="id">On The Spot</title>
-  </programme>
   <programme start="20200929200000 +0700" stop="20200929213000 +0700" channel="Trans 7">
     <title lang="id">Opera Van Java</title>
   </programme>
@@ -101,12 +87,6 @@
   <programme start="20200929233000 +0700" stop="20200930000000 +0700" channel="Trans 7">
     <title lang="id">Redaksi Malam (L)</title>
   </programme>
-  <programme start="20200929183000 +0700" stop="20200929200000 +0700" channel="Net TV">
-    <title lang="id">In The Kost</title>
-  </programme>
-  <programme start="20200929200000 +0700" stop="20200929210000 +0700" channel="Net TV">
-    <title lang="id">Tawa-Tawa Santai</title>
-  </programme>
   <programme start="20200929210000 +0700" stop="20200929220000 +0700" channel="Net TV">
     <title lang="id">Tonight Show</title>
   </programme>
@@ -116,14 +96,45 @@
   <programme start="20200929230000 +0700" stop="20200930000000 +0700" channel="Net TV">
     <title lang="id">86</title>
   </programme>
-  <programme start="20200929193000 +0700" stop="20200929200000 +0700" channel="Berita Satu">
-    <title lang="id">Fakta Data</title>
+  <programme start="20200929140000 +0000" stop="20200929143000 +0000" channel="Disney Junior USA - East">
+    <title lang="en">Puppy Dog Pals</title>
+    <desc lang="en">The pups must fix Hero's new birthday toy after Rolly and Keia accidentally break it. The Pugs head to Canada to save Bob's pancake surprise for Bonnie!(n)</desc>
   </programme>
-  <programme start="20200929200000 +0700" stop="20200929200500 +0700" channel="Berita Satu">
-    <title lang="id">News Update</title>
+  <programme start="20200929143000 +0000" stop="20200929150000 +0000" channel="Disney Junior USA - East">
+    <title lang="en">Puppy Dog Pals</title>
+    <desc lang="en">When a puppy gets lost at Adopt-A-Palooza, it's up to the pugs, Keia and their new friend to find it. Bingo, Rolly and Keia go off in search of Captain Wunderbark's long-lost ship.(n)</desc>
   </programme>
-  <programme start="20200929200500 +0700" stop="20200929210000 +0700" channel="Berita Satu">
-    <title lang="id">Creative Money</title>
+  <programme start="20200929150000 +0000" stop="20200929152500 +0000" channel="Disney Junior USA - East">
+    <title lang="en">Mira, Royal Detective</title>
+    <desc lang="en">When townspeople start receiving anonymous gifts, Mira searches for the secret gift-giver. Then, Pinky's dishes for the Queen's cooking contest seem to be sabotaged.(n)</desc>
+  </programme>
+  <programme start="20200929152500 +0000" stop="20200929155000 +0000" channel="Disney Junior USA - East">
+    <title lang="en">T.O.T.S.</title>
+    <desc lang="en">A tenacious penguin and a kind hearted flamingo train to be delivery birds.(n)</desc>
+  </programme>
+  <programme start="20200929155000 +0000" stop="20200929161500 +0000" channel="Disney Junior USA - East">
+    <title lang="en">T.O.T.S.</title>
+    <desc lang="en">Pip and Freddy teach a lion cub the difference between his "indoor" and "outdoor" roar. When a porcupine is scared of the delivery tube, K.C. and the Fliers help him beat his fear.(n)</desc>
+  </programme>
+  <programme start="20200929161500 +0000" stop="20200929164000 +0000" channel="Disney Junior USA - East">
+    <title lang="en">Bluey</title>
+    <desc lang="en">Bluey thinks there are Fairies in the backyard; Bluey and Bingo are hired by Dad at the drainpipe factory; Dad and Bluey send Bingo a video.(n)</desc>
+  </programme>
+  <programme start="20200929164000 +0000" stop="20200929170500 +0000" channel="Disney Junior USA - East">
+    <title lang="en">Puppy Dog Pals</title>
+    <desc lang="en">The Pugs throw Keia a picnic when she can't attend the Playcare's picnic in the park! Rolly gets carried away when he designates himself as judge to keep the peace at Playcare!(n)</desc>
+  </programme>
+  <programme start="20200929170500 +0000" stop="20200929171000 +0000" channel="Disney Junior USA - East">
+    <title lang="en">Toon Bops</title>
+    <desc lang="en">A fun song about the whole family singing and dancing along in every room of the house.(n)</desc>
+  </programme>
+  <programme start="20200929171000 +0000" stop="20200929173500 +0000" channel="Disney Junior USA - East">
+    <title lang="en">Puppy Dog Pals</title>
+    <desc lang="en">When Bob brings home a lost kitty, Bing and Rolly try find her a home. While in Florida, Bingo and Rolly search for an old friend of Bob's.(n)</desc>
+  </programme>
+  <programme start="20200929173500 +0000" stop="20200929180000 +0000" channel="Disney Junior USA - East">
+    <title lang="en">Puppy Dog Pals</title>
+    <desc lang="en">The pups travel to Japan to get help from the local snow monkeys and bring back snow to save Bob's ski trip.(n)</desc>
   </programme>
   <programme start="20200929210000 +0700" stop="20200929210500 +0700" channel="Berita Satu">
     <title lang="id">News Update</title>
@@ -149,15 +160,6 @@
   <programme start="20200929230500 +0700" stop="20200930000000 +0700" channel="Berita Satu">
     <title lang="id">Corporate Action</title>
   </programme>
-  <programme start="20200929190000 +0700" stop="20200929200000 +0700" channel="TVRI">
-    <title lang="id">Mencari Pemimpin</title>
-  </programme>
-  <programme start="20200929200000 +0700" stop="20200929200300 +0700" channel="TVRI">
-    <title lang="id">Info Terkini</title>
-  </programme>
-  <programme start="20200929200300 +0700" stop="20200929210000 +0700" channel="TVRI">
-    <title lang="id">Musik Indonesia</title>
-  </programme>
   <programme start="20200929210000 +0700" stop="20200929213000 +0700" channel="TVRI">
     <title lang="id">Dunia Dalam Berita</title>
   </programme>
@@ -167,9 +169,6 @@
   <programme start="20200929233000 +0700" stop="20200930000000 +0700" channel="TVRI">
     <title lang="id">Inspirasi Indonesia</title>
   </programme>
-  <programme start="20200929170000 +0700" stop="20200929200000 +0700" channel="CNBC">
-    <title lang="id">Squawk Box US</title>
-  </programme>
   <programme start="20200929200000 +0700" stop="20200929220000 +0700" channel="CNBC">
     <title lang="id">Squawk On The Street</title>
   </programme>
@@ -178,9 +177,6 @@
   </programme>
   <programme start="20200929230000 +0700" stop="20200930000000 +0700" channel="CNBC">
     <title lang="id">Fast Money: Halftime Report</title>
-  </programme>
-  <programme start="20200929191000 +0700" stop="20200929202500 +0700" channel="One HD">
-    <title lang="id">Do You Like Brahms?</title>
   </programme>
   <programme start="20200929202500 +0700" stop="20200929211000 +0700" channel="One HD">
     <title lang="id">Wanna Taste?</title>
