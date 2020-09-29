@@ -55,9 +55,6 @@
     <icon src="https://mncvision.id/userfiles/image/channel/channel_445.png" />
     <url>http://www.mncvision.id.E</url>
   </channel>
-  <programme start="20200929123000 +0700" stop="20200929140000 +0700" channel="TRANS TV">
-    <title lang="id">Brownis (Obrolan Manis)</title>
-  </programme>
   <programme start="20200929140000 +0700" stop="20200929150000 +0700" channel="TRANS TV">
     <title lang="id">Rumpi: No Secret (L)</title>
   </programme>
@@ -85,9 +82,6 @@
   <programme start="20200929233000 +0700" stop="20200930013000 +0700" channel="TRANS TV">
     <title lang="id">Bioskop Trans TV</title>
   </programme>
-  <programme start="20200929123000 +0700" stop="20200929140000 +0700" channel="Trans TV">
-    <title lang="id">Brownis (Obrolan Manis)</title>
-  </programme>
   <programme start="20200929140000 +0700" stop="20200929150000 +0700" channel="Trans TV">
     <title lang="id">Rumpi: No Secret (L)</title>
   </programme>
@@ -114,9 +108,6 @@
   </programme>
   <programme start="20200929233000 +0700" stop="20200930013000 +0700" channel="Trans TV">
     <title lang="id">Bioskop Trans TV</title>
-  </programme>
-  <programme start="20200929130500 +0700" stop="20200929140000 +0700" channel="Metro TV">
-    <title lang="id">Newsline</title>
   </programme>
   <programme start="20200929140000 +0700" stop="20200929140500 +0700" channel="Metro TV">
     <title lang="id">Headline News</title>
@@ -219,9 +210,6 @@
   </programme>
   <programme start="20200929233000 +0700" stop="20200930000000 +0700" channel="Trans 7">
     <title lang="id">Redaksi Malam (L)</title>
-  </programme>
-  <programme start="20200929130000 +0700" stop="20200929140000 +0700" channel="Net TV">
-    <title lang="id">Kristal Khayalan</title>
   </programme>
   <programme start="20200929140000 +0700" stop="20200929150000 +0700" channel="Net TV">
     <title lang="id">Lahirnya Bayi Urg</title>
@@ -657,9 +645,6 @@
     <title lang="en">Paw Patrol</title>
     <desc lang="en">Animated action adventure following a squad of six heroic puppies and their tech-savvy 10-year-old leader as they protect the community of Adventure Bay.(n)</desc>
   </programme>
-  <programme start="20200929130500 +0700" stop="20200929140000 +0700" channel="Berita Satu">
-    <title lang="id">Lunch Talk</title>
-  </programme>
   <programme start="20200929140000 +0700" stop="20200929140500 +0700" channel="Berita Satu">
     <title lang="id">News Update</title>
   </programme>
@@ -744,9 +729,6 @@
   <programme start="20200929230500 +0700" stop="20200930000000 +0700" channel="Berita Satu">
     <title lang="id">Corporate Action</title>
   </programme>
-  <programme start="20200929133000 +0700" stop="20200929140000 +0700" channel="TVRI">
-    <title lang="id">Feature LKBN Antara</title>
-  </programme>
   <programme start="20200929140000 +0700" stop="20200929140300 +0700" channel="TVRI">
     <title lang="id">Info Terkini</title>
   </programme>
@@ -812,9 +794,6 @@
   </programme>
   <programme start="20200929230000 +0700" stop="20200930000000 +0700" channel="CNBC">
     <title lang="id">Fast Money: Halftime Report</title>
-  </programme>
-  <programme start="20200929132000 +0700" stop="20200929140000 +0700" channel="One HD">
-    <title lang="id">VIP</title>
   </programme>
   <programme start="20200929140000 +0700" stop="20200929142000 +0700" channel="One HD">
     <title lang="id">K-Hits</title>
