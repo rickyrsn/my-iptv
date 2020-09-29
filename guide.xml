@@ -20,9 +20,9 @@
     <icon src="https://mncvision.id/userfiles/image/channel/channel_116.jpg" />
     <url>http://www.mncvision.id.E</url>
   </channel>
-  <channel id="Disney Junior USA - East">
-    <display-name lang="en">Disney Junior USA - East</display-name>
-    <url>http://www.tvtv.us</url>
+  <channel id="Disney Junior HDTV East (DISJR)">
+    <display-name lang="en">Disney Junior HDTV East (DISJR)</display-name>
+    <url>http://www.tv.com</url>
   </channel>
   <channel id="Berita Satu">
     <display-name lang="id">Berita Satu</display-name>
