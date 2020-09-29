@@ -46,13 +46,10 @@
     <url>http://www.mncvision.id.E</url>
   </channel>
   <channel id="One HD">
-    <display-name lang="id">Sony One HD</display-name>
+    <display-name lang="id">One HD</display-name>
     <icon src="https://mncvision.id/userfiles/image/channel/channel_445.png" />
     <url>http://www.mncvision.id.E</url>
   </channel>
-  <programme start="20200929180000 +0700" stop="20200929190000 +0700" channel="TRANS TV">
-    <title lang="id">Keluarga Bosque</title>
-  </programme>
   <programme start="20200929190000 +0700" stop="20200929203000 +0700" channel="TRANS TV">
     <title lang="id">Santuy Malam</title>
   </programme>
@@ -64,9 +61,6 @@
   </programme>
   <programme start="20200929233000 +0700" stop="20200930013000 +0700" channel="TRANS TV">
     <title lang="id">Bioskop Trans TV</title>
-  </programme>
-  <programme start="20200929180500 +0700" stop="20200929190000 +0700" channel="Metro TV">
-    <title lang="id">Primetime News</title>
   </programme>
   <programme start="20200929190000 +0700" stop="20200929190500 +0700" channel="Metro TV">
     <title lang="id">Headline News</title>
@@ -100,9 +94,6 @@
   </programme>
   <programme start="20200929233000 +0700" stop="20200930000000 +0700" channel="Metro TV">
     <title lang="id">Primetime News</title>
-  </programme>
-  <programme start="20200929180000 +0700" stop="20200929190000 +0700" channel="Trans 7">
-    <title lang="id">Okay Bos</title>
   </programme>
   <programme start="20200929190000 +0700" stop="20200929200000 +0700" channel="Trans 7">
     <title lang="id">On The Spot</title>
@@ -538,9 +529,6 @@
     <title lang="en">Paw Patrol</title>
     <desc lang="en">Animated action adventure following a squad of six heroic puppies and their tech-savvy 10-year-old leader as they protect the community of Adventure Bay.(n)</desc>
   </programme>
-  <programme start="20200929183000 +0700" stop="20200929190000 +0700" channel="Berita Satu">
-    <title lang="id">Connect 360</title>
-  </programme>
   <programme start="20200929190000 +0700" stop="20200929190500 +0700" channel="Berita Satu">
     <title lang="id">News Update</title>
   </programme>
@@ -580,9 +568,6 @@
   <programme start="20200929230500 +0700" stop="20200930000000 +0700" channel="Berita Satu">
     <title lang="id">Corporate Action</title>
   </programme>
-  <programme start="20200929180000 +0700" stop="20200929190000 +0700" channel="TVRI">
-    <title lang="id">Klik Indonesia Malam</title>
-  </programme>
   <programme start="20200929190000 +0700" stop="20200929200000 +0700" channel="TVRI">
     <title lang="id">Mencari Pemimpin</title>
   </programme>
@@ -612,9 +597,6 @@
   </programme>
   <programme start="20200929230000 +0700" stop="20200930000000 +0700" channel="CNBC">
     <title lang="id">Fast Money: Halftime Report</title>
-  </programme>
-  <programme start="20200929175500 +0700" stop="20200929183300 +0700" channel="One HD">
-    <title lang="id">VIP</title>
   </programme>
   <programme start="20200929183300 +0700" stop="20200929191000 +0700" channel="One HD">
     <title lang="id">VIP</title>
