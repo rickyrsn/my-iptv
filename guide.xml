@@ -55,539 +55,801 @@
     <icon src="https://mncvision.id/userfiles/image/channel/channel_445.png" />
     <url>http://www.mncvision.id.E</url>
   </channel>
-    <channel id="One HD">
-    <display-name lang="id">One HD</display-name>
-    <icon src="https://mncvision.id/userfiles/image/channel/channel_445.png" />
-    <url>http://www.mncvision.id.E</url>
-  </channel>
-  <programme start="20200928203000 +0700" stop="20200928213000 +0700" channel="TRANS TV">
+  <programme start="20200929123000 +0700" stop="20200929140000 +0700" channel="TRANS TV">
+    <title lang="id">Brownis (Obrolan Manis)</title>
+  </programme>
+  <programme start="20200929140000 +0700" stop="20200929150000 +0700" channel="TRANS TV">
+    <title lang="id">Rumpi: No Secret (L)</title>
+  </programme>
+  <programme start="20200929150000 +0700" stop="20200929160000 +0700" channel="TRANS TV">
+    <title lang="id">Insert Today</title>
+  </programme>
+  <programme start="20200929160000 +0700" stop="20200929170000 +0700" channel="TRANS TV">
+    <title lang="id">CNN Indonesia News Update</title>
+  </programme>
+  <programme start="20200929170000 +0700" stop="20200929180000 +0700" channel="TRANS TV">
+    <title lang="id">Bikin Laper</title>
+  </programme>
+  <programme start="20200929180000 +0700" stop="20200929190000 +0700" channel="TRANS TV">
+    <title lang="id">Keluarga Bosque</title>
+  </programme>
+  <programme start="20200929190000 +0700" stop="20200929203000 +0700" channel="TRANS TV">
+    <title lang="id">Santuy Malam</title>
+  </programme>
+  <programme start="20200929203000 +0700" stop="20200929213000 +0700" channel="TRANS TV">
     <title lang="id">CNN Indonesia Prime News</title>
   </programme>
-  <programme start="20200928213000 +0700" stop="20200928233000 +0700" channel="TRANS TV">
+  <programme start="20200929213000 +0700" stop="20200929233000 +0700" channel="TRANS TV">
     <title lang="id">Bioskop Trans TV</title>
   </programme>
-  <programme start="20200928233000 +0700" stop="20200929013000 +0700" channel="TRANS TV">
+  <programme start="20200929233000 +0700" stop="20200930013000 +0700" channel="TRANS TV">
     <title lang="id">Bioskop Trans TV</title>
   </programme>
-  <programme start="20200928203000 +0700" stop="20200928213000 +0700" channel="Trans TV">
+  <programme start="20200929123000 +0700" stop="20200929140000 +0700" channel="Trans TV">
+    <title lang="id">Brownis (Obrolan Manis)</title>
+  </programme>
+  <programme start="20200929140000 +0700" stop="20200929150000 +0700" channel="Trans TV">
+    <title lang="id">Rumpi: No Secret (L)</title>
+  </programme>
+  <programme start="20200929150000 +0700" stop="20200929160000 +0700" channel="Trans TV">
+    <title lang="id">Insert Today</title>
+  </programme>
+  <programme start="20200929160000 +0700" stop="20200929170000 +0700" channel="Trans TV">
+    <title lang="id">CNN Indonesia News Update</title>
+  </programme>
+  <programme start="20200929170000 +0700" stop="20200929180000 +0700" channel="Trans TV">
+    <title lang="id">Bikin Laper</title>
+  </programme>
+  <programme start="20200929180000 +0700" stop="20200929190000 +0700" channel="Trans TV">
+    <title lang="id">Keluarga Bosque</title>
+  </programme>
+  <programme start="20200929190000 +0700" stop="20200929203000 +0700" channel="Trans TV">
+    <title lang="id">Santuy Malam</title>
+  </programme>
+  <programme start="20200929203000 +0700" stop="20200929213000 +0700" channel="Trans TV">
     <title lang="id">CNN Indonesia Prime News</title>
   </programme>
-  <programme start="20200928213000 +0700" stop="20200928233000 +0700" channel="Trans TV">
+  <programme start="20200929213000 +0700" stop="20200929233000 +0700" channel="Trans TV">
     <title lang="id">Bioskop Trans TV</title>
   </programme>
-  <programme start="20200928233000 +0700" stop="20200929013000 +0700" channel="Trans TV">
+  <programme start="20200929233000 +0700" stop="20200930013000 +0700" channel="Trans TV">
     <title lang="id">Bioskop Trans TV</title>
   </programme>
-  <programme start="20200928200500 +0700" stop="20200928210000 +0700" channel="Metro TV">
-    <title lang="id">Top News</title>
+  <programme start="20200929130500 +0700" stop="20200929140000 +0700" channel="Metro TV">
+    <title lang="id">Newsline</title>
   </programme>
-  <programme start="20200928210000 +0700" stop="20200928210500 +0700" channel="Metro TV">
+  <programme start="20200929140000 +0700" stop="20200929140500 +0700" channel="Metro TV">
     <title lang="id">Headline News</title>
   </programme>
-  <programme start="20200928210500 +0700" stop="20200928220000 +0700" channel="Metro TV">
-    <title lang="id">Top News</title>
+  <programme start="20200929140500 +0700" stop="20200929150000 +0700" channel="Metro TV">
+    <title lang="id">Newsline</title>
   </programme>
-  <programme start="20200928220000 +0700" stop="20200928220500 +0700" channel="Metro TV">
+  <programme start="20200929150000 +0700" stop="20200929150500 +0700" channel="Metro TV">
     <title lang="id">Headline News</title>
   </programme>
-  <programme start="20200928220500 +0700" stop="20200928223000 +0700" channel="Metro TV">
-    <title lang="id">Metro Sport</title>
+  <programme start="20200929150500 +0700" stop="20200929153000 +0700" channel="Metro TV">
+    <title lang="id">Election 2020 Update</title>
   </programme>
-  <programme start="20200928223000 +0700" stop="20200928230000 +0700" channel="Metro TV">
-    <title lang="id">Metro Malam</title>
+  <programme start="20200929153000 +0700" stop="20200929160000 +0700" channel="Metro TV">
+    <title lang="id">COVID-19 Update</title>
   </programme>
-  <programme start="20200928230000 +0700" stop="20200928233000 +0700" channel="Metro TV">
+  <programme start="20200929160000 +0700" stop="20200929160500 +0700" channel="Metro TV">
     <title lang="id">Headline News</title>
   </programme>
-  <programme start="20200928233000 +0700" stop="20200929000000 +0700" channel="Metro TV">
+  <programme start="20200929160500 +0700" stop="20200929170000 +0700" channel="Metro TV">
+    <title lang="id">Metro Hari Ini</title>
+  </programme>
+  <programme start="20200929170000 +0700" stop="20200929173000 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20200929173000 +0700" stop="20200929180000 +0700" channel="Metro TV">
     <title lang="id">Primetime News</title>
   </programme>
-  <programme start="20200928200000 +0700" stop="20200928213000 +0700" channel="Trans 7">
+  <programme start="20200929180000 +0700" stop="20200929180500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20200929180500 +0700" stop="20200929190000 +0700" channel="Metro TV">
+    <title lang="id">Primetime News</title>
+  </programme>
+  <programme start="20200929190000 +0700" stop="20200929190500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20200929190500 +0700" stop="20200929200000 +0700" channel="Metro TV">
+    <title lang="id">Primetalk With Rory</title>
+  </programme>
+  <programme start="20200929200000 +0700" stop="20200929200500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20200929200500 +0700" stop="20200929210000 +0700" channel="Metro TV">
+    <title lang="id">Hot Room</title>
+  </programme>
+  <programme start="20200929210000 +0700" stop="20200929210500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20200929210500 +0700" stop="20200929220000 +0700" channel="Metro TV">
+    <title lang="id">Top News</title>
+  </programme>
+  <programme start="20200929220000 +0700" stop="20200929220500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20200929220500 +0700" stop="20200929223000 +0700" channel="Metro TV">
+    <title lang="id">Metro Sport</title>
+  </programme>
+  <programme start="20200929223000 +0700" stop="20200929230000 +0700" channel="Metro TV">
+    <title lang="id">Metro Malam</title>
+  </programme>
+  <programme start="20200929230000 +0700" stop="20200929233000 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20200929233000 +0700" stop="20200930000000 +0700" channel="Metro TV">
+    <title lang="id">Primetime News</title>
+  </programme>
+  <programme start="20200929133000 +0700" stop="20200929141500 +0700" channel="Trans 7">
+    <title lang="id">Tau Gak Sih?</title>
+  </programme>
+  <programme start="20200929141500 +0700" stop="20200929150000 +0700" channel="Trans 7">
+    <title lang="id">Jejak Petualang</title>
+  </programme>
+  <programme start="20200929150000 +0700" stop="20200929160000 +0700" channel="Trans 7">
+    <title lang="id">Redaksi Sore (L)</title>
+  </programme>
+  <programme start="20200929160000 +0700" stop="20200929164500 +0700" channel="Trans 7">
+    <title lang="id">Jejak Si Gundul</title>
+  </programme>
+  <programme start="20200929164500 +0700" stop="20200929171500 +0700" channel="Trans 7">
+    <title lang="id">Makan Receh</title>
+  </programme>
+  <programme start="20200929171500 +0700" stop="20200929180000 +0700" channel="Trans 7">
+    <title lang="id">Seleb Expose</title>
+  </programme>
+  <programme start="20200929180000 +0700" stop="20200929190000 +0700" channel="Trans 7">
+    <title lang="id">Okay Bos</title>
+  </programme>
+  <programme start="20200929190000 +0700" stop="20200929200000 +0700" channel="Trans 7">
+    <title lang="id">On The Spot</title>
+  </programme>
+  <programme start="20200929200000 +0700" stop="20200929213000 +0700" channel="Trans 7">
     <title lang="id">Opera Van Java</title>
   </programme>
-  <programme start="20200928213000 +0700" stop="20200928223000 +0700" channel="Trans 7">
+  <programme start="20200929213000 +0700" stop="20200929223000 +0700" channel="Trans 7">
     <title lang="id">Indonesia Giveaway</title>
   </programme>
-  <programme start="20200928223000 +0700" stop="20200928233000 +0700" channel="Trans 7">
+  <programme start="20200929223000 +0700" stop="20200929233000 +0700" channel="Trans 7">
     <title lang="id">The Police</title>
   </programme>
-  <programme start="20200928233000 +0700" stop="20200929000000 +0700" channel="Trans 7">
+  <programme start="20200929233000 +0700" stop="20200930000000 +0700" channel="Trans 7">
     <title lang="id">Redaksi Malam (L)</title>
   </programme>
-  <programme start="20200928200000 +0700" stop="20200928204400 +0700" channel="Net TV">
+  <programme start="20200929130000 +0700" stop="20200929140000 +0700" channel="Net TV">
+    <title lang="id">Kristal Khayalan</title>
+  </programme>
+  <programme start="20200929140000 +0700" stop="20200929150000 +0700" channel="Net TV">
+    <title lang="id">Lahirnya Bayi Urg</title>
+  </programme>
+  <programme start="20200929150000 +0700" stop="20200929160000 +0700" channel="Net TV">
+    <title lang="id">Diary Bahagia</title>
+  </programme>
+  <programme start="20200929160000 +0700" stop="20200929170000 +0700" channel="Net TV">
+    <title lang="id">The Return Of Superman</title>
+  </programme>
+  <programme start="20200929170000 +0700" stop="20200929180000 +0700" channel="Net TV">
+    <title lang="id">Still 17</title>
+  </programme>
+  <programme start="20200929180000 +0700" stop="20200929183000 +0700" channel="Net TV">
+    <title lang="id">Like It</title>
+  </programme>
+  <programme start="20200929183000 +0700" stop="20200929200000 +0700" channel="Net TV">
+    <title lang="id">In The Kost</title>
+  </programme>
+  <programme start="20200929200000 +0700" stop="20200929210000 +0700" channel="Net TV">
     <title lang="id">Tawa-Tawa Santai</title>
   </programme>
-  <programme start="20200928204400 +0700" stop="20200928230000 +0700" channel="Net TV">
-    <title lang="id">NET TV</title>
+  <programme start="20200929210000 +0700" stop="20200929220000 +0700" channel="Net TV">
+    <title lang="id">Tonight Show</title>
   </programme>
-  <programme start="20200928230000 +0700" stop="20200928233000 +0700" channel="Net TV">
-    <title lang="id">MLDSpot TV</title>
+  <programme start="20200929220000 +0700" stop="20200929230000 +0700" channel="Net TV">
+    <title lang="id">Malam-Malam</title>
   </programme>
-  <programme start="20200928233000 +0700" stop="20200929003000 +0700" channel="Net TV">
+  <programme start="20200929230000 +0700" stop="20200930000000 +0700" channel="Net TV">
     <title lang="id">86</title>
   </programme>
-  <programme start="20200928060000 +0100" stop="20200928070000 +0100" channel="BT Sport 2 HD">
+  <programme start="20200929060000 +0100" stop="20200929073000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Gallagher Premiership Rugby Union</title>
+    <desc lang="en">Action from the Gallagher Premiership as Harlequins host Wasps at the Twickenham Stoop.(n)</desc>
+  </programme>
+  <programme start="20200929073000 +0100" stop="20200929083000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Women's Commonwealth Bank T20I Series</title>
+    <desc lang="en">Women's CommBank T20I Series action between Australia and New Zealand.(n)</desc>
+  </programme>
+  <programme start="20200929083000 +0100" stop="20200929093000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Women's Commonwealth Bank T20I Series</title>
+    <desc lang="en">Women's CommBank T20I Series between Australia and New Zealand.(n)</desc>
+  </programme>
+  <programme start="20200929093000 +0100" stop="20200929113000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">V10 R-League</title>
+    <desc lang="en">Action from match day four of the V10 R-League as eight of the worlds biggest sim racing teams go head-to-head around some of the world's most iconic circuits.(n)</desc>
+  </programme>
+  <programme start="20200929113000 +0100" stop="20200929123000 +0100" channel="BT Sport 2 HD">
     <title lang="en">MotoGP</title>
     <desc lang="en">All the action from the Moto3 Grand Prix of Catalunya race.(n)</desc>
   </programme>
-  <programme start="20200928070000 +0100" stop="20200928080000 +0100" channel="BT Sport 2 HD">
+  <programme start="20200929123000 +0100" stop="20200929133000 +0100" channel="BT Sport 2 HD">
     <title lang="en">MotoGP</title>
     <desc lang="en">All the action from the Moto2 Grand Prix of Catalunya race.(n)</desc>
   </programme>
-  <programme start="20200928080000 +0100" stop="20200928090000 +0100" channel="BT Sport 2 HD">
+  <programme start="20200929133000 +0100" stop="20200929143000 +0100" channel="BT Sport 2 HD">
     <title lang="en">MotoGP</title>
     <desc lang="en">All the action from the Grand Prix of Catalunya race.(n)</desc>
   </programme>
-  <programme start="20200928090000 +0100" stop="20200928093000 +0100" channel="BT Sport 2 HD">
+  <programme start="20200929143000 +0100" stop="20200929150000 +0100" channel="BT Sport 2 HD">
     <title lang="en">MotoGP Chequered Flag</title>
     <desc lang="en">Post-race show featuring analysis, highlights and interviews with all the key riders following the Grand Prix Of Catalunya.(n)</desc>
   </programme>
-  <programme start="20200928093000 +0100" stop="20200928100000 +0100" channel="BT Sport 2 HD">
-    <title lang="en">Sailing to Tokyo</title>
-    <desc lang="en">In this episode, we focus on another exiting Olympic class, the RS:X. We follow the athlete's campaigns as they fight to represent their country at the Olympic Games.(n)</desc>
+  <programme start="20200929150000 +0100" stop="20200929160000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">V8 Supercars Highlights</title>
+    <desc lang="en">Highlights from race 25 at Sandown, the latest round of the Virgin Australia Supercars Championship.(n)</desc>
   </programme>
-  <programme start="20200928100000 +0100" stop="20200928103000 +0100" channel="BT Sport 2 HD">
-    <title lang="en">Inside Sailing</title>
-    <desc lang="en">The latest news, action and updates from the world of sailing.(n)</desc>
+  <programme start="20200929160000 +0100" stop="20200929170000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">V8 Supercars Highlights</title>
+    <desc lang="en">Highlights from races 26 and 27 at Sandown, the latest round of the Virgin Australia Supercars Championship.(n)</desc>
   </programme>
-  <programme start="20200928103000 +0100" stop="20200928113000 +0100" channel="BT Sport 2 HD">
-    <title lang="en">WWE NXT Highlights</title>
-    <desc lang="en">Highlights from the latest episode of WWE NXT.(n)</desc>
+  <programme start="20200929170000 +0100" stop="20200929173000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">A round-up of the latest news from the world of football at the ESPN studios in Bristol, Connecticut.(n)</desc>
   </programme>
-  <programme start="20200928113000 +0100" stop="20200928130000 +0100" channel="BT Sport 2 HD">
-    <title lang="en">European Rugby Challenge Cup</title>
-    <desc lang="en">Action from the European Rugby Challenege Cup as Bristol Bears and Bordeaux Begles meet in the semi-finals at Ashton Gate.(n)</desc>
+  <programme start="20200929173000 +0100" stop="20200929180000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">BT Sport Goals Reload</title>
+    <desc lang="en">We bring you the greatest goals from around the world this week, including action from Ligue 1 and the Bundesliga.(n)</desc>
   </programme>
-  <programme start="20200928130000 +0100" stop="20200928143000 +0100" channel="BT Sport 2 HD">
-    <title lang="en">European Rugby Challenge Cup</title>
-    <desc lang="en">Action from the semi-finals of the European Rugby Challenge Cup as RC Toulon and Leicester Tigers meet.(n)</desc>
+  <programme start="20200929180000 +0100" stop="20200929190000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Premier League Review</title>
+    <desc lang="en">A look back at the best of the action from matchday three of the Premier League, including Brighton v Manchester United and Sheffield United v Leeds United.(n)</desc>
   </programme>
-  <programme start="20200928143000 +0100" stop="20200928153000 +0100" channel="BT Sport 2 HD">
-    <title lang="en">Heineken Champions Cup</title>
-    <desc lang="en">Action from the Heineken Champions Cup as Racing 92 take on Saracens at Paris La Défense Arena.(n)</desc>
+  <programme start="20200929190000 +0100" stop="20200929191500 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Premier League Reload</title>
+    <desc lang="en">A whirlwind catch-up from the weekend's Premier League matches, featuring all the goals and major talking points from match day three.(n)</desc>
   </programme>
-  <programme start="20200928153000 +0100" stop="20200928163000 +0100" channel="BT Sport 2 HD">
-    <title lang="en">Heineken Champions Cup</title>
-    <desc lang="en">Action from the semi-finals of the Heineken Champions Cup as Exeter Chiefs meet Toulouse at Sandy Park.(n)</desc>
+  <programme start="20200929191500 +0100" stop="20200929194500 +0100" channel="BT Sport 2 HD">
+    <title lang="en">The BT Sport Boxing Show</title>
+    <desc lang="en">Adam Catterall and the best guests in the game dissect the world of boxing.(n)</desc>
   </programme>
-  <programme start="20200928163000 +0100" stop="20200928170000 +0100" channel="BT Sport 2 HD">
-    <title lang="en">Gearing Up</title>
-    <desc lang="en">A series following the hottest action from the world's most unique motor sport events.(n)</desc>
+  <programme start="20200929194500 +0100" stop="20200929220000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Live UEFA Champions League</title>
+    <desc lang="en">Action from the second leg of the UEFA Champions League play-off tie between Omonia and Olympiacos.(n)</desc>
   </programme>
-  <programme start="20200928170000 +0100" stop="20200928173000 +0100" channel="BT Sport 2 HD">
-    <title lang="en">Premier League World</title>
-    <desc lang="en">This week on PL World we speak to Everton's Dominic Calvert-Lewin, Leeds' Pablo Hernandez and former Manchester United captain Bryan Robson.(n)</desc>
+  <programme start="20200929220000 +0100" stop="20200930003000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">WWE Monday Night Raw</title>
+    <desc lang="en">Watch Becky Lynch, Kevin Owens, Charlotte Flair, Seth Rollins and more of your favourite WWE Superstars face-off inside the ring on WWE Monday Night Raw.(n)</desc>
   </programme>
-  <programme start="20200928173000 +0100" stop="20200928193000 +0100" channel="BT Sport 2 HD">
-    <title lang="en">NHL</title>
-    <desc lang="en">NHL Playoffs action from Game 5 of the Stanley Cup Finals as Tampa Bay meet Dallas Stars.(n)</desc>
-  </programme>
-  <programme start="20200928193000 +0100" stop="20200928213000 +0100" channel="BT Sport 2 HD">
-    <title lang="en">Live Bundesliga 2</title>
-    <desc lang="en">Action from German football's second tier as Paderborn go up against Hamburg at Benteler Arena.(n)</desc>
-  </programme>
-  <programme start="20200928213000 +0100" stop="20200928223000 +0100" channel="BT Sport 2 HD">
-    <title lang="en">Bundesliga Highlights Show</title>
-    <desc lang="en">The best of the action from the matchday two of the 2020/21 Bundesliga season, including Bayer Leverkusen v RB Leipzig, Augsburg v Borussia Dortmund and Hoffenheim v Bayern Munich.(n)</desc>
-  </programme>
-  <programme start="20200928223000 +0100" stop="20200928230000 +0100" channel="BT Sport 2 HD">
-    <title lang="en">Dan Hardy's Open Mat</title>
-    <desc lang="en">UFC commentator and leading analyst Dan Hardy is joined by some of the biggest names in the sport to look ahead to the upcoming UFC 253 card.(n)</desc>
-  </programme>
-  <programme start="20200928230000 +0100" stop="20200929000000 +0100" channel="BT Sport 2 HD">
-    <title lang="en">WWE Raw Highlights</title>
-    <desc lang="en">All the best highlights from the latest WWE Raw.(n)</desc>
-  </programme>
-  <programme start="20200928060000 +0100" stop="20200928060500 +0100" channel="Nick Jr">
+  <programme start="20200929060000 +0100" stop="20200929060500 +0100" channel="Nick Jr">
     <title lang="en">Peppa Pig</title>
-    <desc lang="en">Mummy and Daddy Pig take Peppa and George to a castle to feast on medieval banquets, play King and Queen and meet a dragon.(n)</desc>
+    <desc lang="en">George and Peppa visit Daddy Pig's office and meet his colleagues. Mr Rabbit works with numbers, while Mrs Cat draws shapes on a computer.(n)</desc>
   </programme>
-  <programme start="20200928060500 +0100" stop="20200928061500 +0100" channel="Nick Jr">
+  <programme start="20200929060500 +0100" stop="20200929061500 +0100" channel="Nick Jr">
     <title lang="en">Peppa Pig</title>
-    <desc lang="en">Mummy Pig does a parachute jump for charity, which means Daddy Pig has to conquer his fear of heights.(n)</desc>
+    <desc lang="en">Grandpa and Granny Pig take Peppa and the gang on a boat trip to an island.(n)</desc>
   </programme>
-  <programme start="20200928061500 +0100" stop="20200928062000 +0100" channel="Nick Jr">
+  <programme start="20200929061500 +0100" stop="20200929062000 +0100" channel="Nick Jr">
     <title lang="en">Peppa Pig</title>
-    <desc lang="en">Peppa and her family head to the pond to play with their toys.(n)</desc>
+    <desc lang="en">Gerald Giraffe joins Peppa's playgroup and is keen to make friends with everyone, but he finds that being so tall makes playing hide-and-seek quite a challenge.(n)</desc>
   </programme>
-  <programme start="20200928062000 +0100" stop="20200928063000 +0100" channel="Nick Jr">
+  <programme start="20200929062000 +0100" stop="20200929063000 +0100" channel="Nick Jr">
     <title lang="en">Peppa Pig</title>
-    <desc lang="en">The family gets caught in a traffic jam on the way to see Granny and Grandpa Pig.(n)</desc>
+    <desc lang="en">Miss Rabbit drives Peppa's family to Granny and Grandpa's house to drop off their shopping, and then lends her services to everyone else.(n)</desc>
   </programme>
-  <programme start="20200928063000 +0100" stop="20200928063500 +0100" channel="Nick Jr">
+  <programme start="20200929063000 +0100" stop="20200929063500 +0100" channel="Nick Jr">
     <title lang="en">Peppa Pig</title>
-    <desc lang="en">George and Peppa have a bath and get ready for bed.(n)</desc>
+    <desc lang="en">Grandpa Pig builds a train called Gertrude and takes George and Peppa for a ride.(n)</desc>
   </programme>
-  <programme start="20200928063500 +0100" stop="20200928064500 +0100" channel="Nick Jr">
+  <programme start="20200929063500 +0100" stop="20200929064500 +0100" channel="Nick Jr">
     <title lang="en">Peppa Pig</title>
-    <desc lang="en">The playgroup organises a sports day featuring lots of events.(n)</desc>
+    <desc lang="en">Peppa and George visit their cousin Chloe and her new baby brother.(n)</desc>
   </programme>
-  <programme start="20200928064500 +0100" stop="20200928065000 +0100" channel="Nick Jr">
+  <programme start="20200929064500 +0100" stop="20200929065000 +0100" channel="Nick Jr">
     <title lang="en">Peppa Pig</title>
-    <desc lang="en">Peppa thinks she might need glasses, so Mummy Pig takes her to the optician.(n)</desc>
+    <desc lang="en">The family spends the day riding bikes, and participate in a downhill race.(n)</desc>
   </programme>
-  <programme start="20200928065000 +0100" stop="20200928070000 +0100" channel="Nick Jr">
+  <programme start="20200929065000 +0100" stop="20200929070000 +0100" channel="Nick Jr">
     <title lang="en">Peppa Pig</title>
-    <desc lang="en">Daddy Pig's car runs out of petrol, but Grandad Dog's garage is not far away.(n)</desc>
+    <desc lang="en">Peppa announces only girls are allowed to play in her treehouse, so Grandpa Pig builds the boys their own den.(n)</desc>
   </programme>
-  <programme start="20200928070000 +0100" stop="20200928070500 +0100" channel="Nick Jr">
+  <programme start="20200929070000 +0100" stop="20200929070500 +0100" channel="Nick Jr">
     <title lang="en">Peppa Pig</title>
-    <desc lang="en">Mummy and Daddy Pig take Peppa to the playground, but thick fog spoils her fun.(n)</desc>
+    <desc lang="en">The postman's daughter Zoe Zebra delivers a very special letter for Peppa and George - an invitation to her birthday party.(n)</desc>
   </programme>
-  <programme start="20200928070500 +0100" stop="20200928071500 +0100" channel="Nick Jr">
+  <programme start="20200929070500 +0100" stop="20200929071500 +0100" channel="Nick Jr">
     <title lang="en">Peppa Pig</title>
-    <desc lang="en">The youngster's playgroup holds a jumble sale, and Madame Gazelle asks everyone to bring something to sell.(n)</desc>
+    <desc lang="en">Daddy Pig winds up the old cuckoo clock in Peppa and George's bedroom.(n)</desc>
   </programme>
-  <programme start="20200928071500 +0100" stop="20200928072000 +0100" channel="Nick Jr">
+  <programme start="20200929071500 +0100" stop="20200929072000 +0100" channel="Nick Jr">
     <title lang="en">Peppa Pig</title>
-    <desc lang="en">The family goes swimming. George is a little worried at first, but is soon splashing happily with his friend Richard Rabbit.(n)</desc>
+    <desc lang="en">George and Peppa go ice skating, but they have never been before and Peppa keeps falling over.(n)</desc>
   </programme>
-  <programme start="20200928072000 +0100" stop="20200928073000 +0100" channel="Nick Jr">
+  <programme start="20200929072000 +0100" stop="20200929073000 +0100" channel="Nick Jr">
     <title lang="en">Peppa Pig</title>
-    <desc lang="en">George and Peppa are playing in Grandpa Pig's garden when they find a little snail. Later, Grandpa shows them his beehive.(n)</desc>
+    <desc lang="en">Peppa and George play outside with their ball, but struggle to see each other in the long grass.(n)</desc>
   </programme>
-  <programme start="20200928073000 +0100" stop="20200928074500 +0100" channel="Nick Jr">
+  <programme start="20200929073000 +0100" stop="20200929074500 +0100" channel="Nick Jr">
     <title lang="en">The Adventures of Paddington</title>
-    <desc lang="en">The Browns are having their annual summer games. Will Paddington be good at any of them?(n)</desc>
+    <desc lang="en">The town hall is leaking and needs a new roof, and Paddington must stay silent to raise the money.(n)</desc>
   </programme>
-  <programme start="20200928074500 +0100" stop="20200928080000 +0100" channel="Nick Jr">
+  <programme start="20200929074500 +0100" stop="20200929080000 +0100" channel="Nick Jr">
     <title lang="en">The Adventures of Paddington</title>
-    <desc lang="en">Mrs. Brown has bought an old camper van and decides to take the family on a camping holiday.(n)</desc>
+    <desc lang="en">Do the strange radio messages Jonathan is receiving mean visitors are arriving from another world? Paddington forms a greeting committee!(n)</desc>
   </programme>
-  <programme start="20200928080000 +0100" stop="20200928081500 +0100" channel="Nick Jr">
+  <programme start="20200929080000 +0100" stop="20200929081500 +0100" channel="Nick Jr">
     <title lang="en">Paw Patrol</title>
-    <desc lang="en">Farmer Al's farm is flooded, so the Paw Patrol needs to rescue him.(n)</desc>
+    <desc lang="en">Mayor Humdinger steals the statue of Chickaletta so the heroic puppies set out to put things right.(n)</desc>
   </programme>
-  <programme start="20200928081500 +0100" stop="20200928083000 +0100" channel="Nick Jr">
+  <programme start="20200929081500 +0100" stop="20200929083000 +0100" channel="Nick Jr">
     <title lang="en">Paw Patrol</title>
-    <desc lang="en">Chickaletta gets stuck on a runaway drone and mysterious butterflies cause chaos. Animated action adventure about a team of search-andrescue puppies.(n)</desc>
+    <desc lang="en">When Ms Marjorie takes her mobile library to the mountains, Maynard accidentally releases the brake.(n)</desc>
   </programme>
-  <programme start="20200928083000 +0100" stop="20200928090000 +0100" channel="Nick Jr">
-    <title lang="en">Blue's Clues &amp; You</title>
-    <desc lang="en">Josh and Blue are painting their friends, but they're not quite finished. We play Blue's Clues to figure out who else Blue wants to add to her painting.(n)</desc>
-  </programme>
-  <programme start="20200928090000 +0100" stop="20200928093000 +0100" channel="Nick Jr">
-    <title lang="en">Blaze and the Monster Machines</title>
-    <desc lang="en">Blaze and AJ are racing through the jungle when Blaze gets trapped in sticky mud! Now it's up to AJ and his new animal friends to go on an epic adventure to save Blaze!(n)</desc>
-  </programme>
-  <programme start="20200928093000 +0100" stop="20200928094500 +0100" channel="Nick Jr">
-    <title lang="en">Paw Patrol</title>
-    <desc lang="en">Daring Danny X tries to jump over the news van in the PAW Patroller, but ends up driving it backwards off the cliff and into the sea.(n)</desc>
-  </programme>
-  <programme start="20200928094500 +0100" stop="20200928100000 +0100" channel="Nick Jr">
-    <title lang="en">Paw Patrol</title>
-    <desc lang="en">It's Hat-a-Palooza Day in Adventure Bay, but when hats and lots of other items mysteriously go missing, Ryder and the pups pair up with Alex and his mini patrol to try to find them.(n)</desc>
-  </programme>
-  <programme start="20200928100000 +0100" stop="20200928101500 +0100" channel="Nick Jr">
-    <title lang="en">Paw Patrol</title>
-    <desc lang="en">The pups plan a special celebration for Wally the Walrus, but when he doesn't show up, they find that he has a special new friend named Walinda.(n)</desc>
-  </programme>
-  <programme start="20200928101500 +0100" stop="20200928103000 +0100" channel="Nick Jr">
-    <title lang="en">Paw Patrol</title>
-    <desc lang="en">The Turbots get trapped somewhere in the jungle. They tried to call the PAW Patrol, but their phone cuts out.(n)</desc>
-  </programme>
-  <programme start="20200928103000 +0100" stop="20200928104500 +0100" channel="Nick Jr">
-    <title lang="en">Paw Patrol</title>
-    <desc lang="en">Ryder and the Paw Patrol team rescue Alex when he speeds away on his new trike.(n)</desc>
-  </programme>
-  <programme start="20200928104500 +0100" stop="20200928110000 +0100" channel="Nick Jr">
-    <title lang="en">Paw Patrol</title>
-    <desc lang="en">Ryder and the team clean up a small oil spill in the water near Adventure Bay, and must plug a hole in the ship, get rid of the slick and save the wildlife all at once.(n)</desc>
-  </programme>
-  <programme start="20200928110000 +0100" stop="20200928111500 +0100" channel="Nick Jr">
-    <title lang="en">The Adventures of Paddington</title>
-    <desc lang="en">It's Love Day in Windsor Gardens! Paddington is on a mission to deliver Love Day cards to all his friends..(n)</desc>
-  </programme>
-  <programme start="20200928111500 +0100" stop="20200928113000 +0100" channel="Nick Jr">
-    <title lang="en">The Adventures of Paddington</title>
-    <desc lang="en">Paddington meets Mateo's dog Lucky! Paddington tries to teach him tricks, but Lucky will not behave.(n)</desc>
-  </programme>
-  <programme start="20200928113000 +0100" stop="20200928114500 +0100" channel="Nick Jr">
-    <title lang="en">Butterbean's Cafe</title>
-    <desc lang="en">Cricket helps Jasper make deliveries, but she keeps making mistakes! Will she give up?(n)</desc>
-  </programme>
-  <programme start="20200928114500 +0100" stop="20200928120000 +0100" channel="Nick Jr">
-    <title lang="en">Butterbean's Cafe</title>
-    <desc lang="en">When Ms. Marmalady makes sandwiches with Butterbean's magical flutter butter, it's a recipe for disaster!(n)</desc>
-  </programme>
-  <programme start="20200928120000 +0100" stop="20200928121500 +0100" channel="Nick Jr">
-    <title lang="en">Ben and Holly's Little Kingdom</title>
-    <desc lang="en">Miss Cookie organises a nature trail for Lucy and her class, but it goes through the middle of the Little Kingdom.(n)</desc>
-  </programme>
-  <programme start="20200928121500 +0100" stop="20200928123000 +0100" channel="Nick Jr">
-    <title lang="en">Ben and Holly's Little Kingdom</title>
-    <desc lang="en">The elves and fairies recruit Mr Gnome to help them pick blackberries, but he keeps eating them all.(n)</desc>
-  </programme>
-  <programme start="20200928123000 +0100" stop="20200928123500 +0100" channel="Nick Jr">
-    <title lang="en">Peppa Pig</title>
-    <desc lang="en">The siblings wake up to discover that heavy rain has caused their house to become a desert island.(n)</desc>
-  </programme>
-  <programme start="20200928123500 +0100" stop="20200928124500 +0100" channel="Nick Jr">
-    <title lang="en">Peppa Pig</title>
-    <desc lang="en">The piglet and her family visit a new theme park, where there is a lot of fun to be had with vegetables.(n)</desc>
-  </programme>
-  <programme start="20200928124500 +0100" stop="20200928125000 +0100" channel="Nick Jr">
-    <title lang="en">Peppa Pig</title>
-    <desc lang="en">Daddy Pig takes Peppa and George to visit a house that Mr Bull is building.(n)</desc>
-  </programme>
-  <programme start="20200928125000 +0100" stop="20200928130000 +0100" channel="Nick Jr">
-    <title lang="en">Peppa Pig</title>
-    <desc lang="en">Daddy teaches the children how to play basketball, and they become so good at it they decide to compete against another team.(n)</desc>
-  </programme>
-  <programme start="20200928130000 +0100" stop="20200928130500 +0100" channel="Nick Jr">
-    <title lang="en">Peppa Pig</title>
-    <desc lang="en">Mr Zebra delivers a parcel from Aunt Dottie, causing Peppa and George to get excited.(n)</desc>
-  </programme>
-  <programme start="20200928130500 +0100" stop="20200928131500 +0100" channel="Nick Jr">
-    <title lang="en">Peppa Pig</title>
-    <desc lang="en">Dr Hamster's pet tortoise Tiddles becomes stuck up a tree and needs rescuing.(n)</desc>
-  </programme>
-  <programme start="20200928131500 +0100" stop="20200928132000 +0100" channel="Nick Jr">
-    <title lang="en">Peppa Pig</title>
-    <desc lang="en">Everyone is excited to learn that Mummy Rabbit is pregnant.(n)</desc>
-  </programme>
-  <programme start="20200928132000 +0100" stop="20200928133000 +0100" channel="Nick Jr">
-    <title lang="en">Peppa Pig</title>
-    <desc lang="en">Pedro Pony pretends to be a cowboy and tells stories in a camp he has set up in the garden.(n)</desc>
-  </programme>
-  <programme start="20200928133000 +0100" stop="20200928133500 +0100" channel="Nick Jr">
-    <title lang="en">Peppa Pig</title>
-    <desc lang="en">Grandpa Pig visits Peppa and George and brings seeds for them to plant, while Daddy Pig acts as a scarecrow.(n)</desc>
-  </programme>
-  <programme start="20200928133500 +0100" stop="20200928134500 +0100" channel="Nick Jr">
-    <title lang="en">Peppa Pig</title>
-    <desc lang="en">Dr Hamster struggles to cope on a busy day when everyone seems to require treatment.(n)</desc>
-  </programme>
-  <programme start="20200928134500 +0100" stop="20200928135000 +0100" channel="Nick Jr">
-    <title lang="en">Peppa Pig</title>
-    <desc lang="en">Peppa shows Kylie Kangaroo how to jump in muddy puddles, and the two find out who can spring higher.(n)</desc>
-  </programme>
-  <programme start="20200928135000 +0100" stop="20200928140000 +0100" channel="Nick Jr">
-    <title lang="en">Peppa Pig</title>
-    <desc lang="en">Mummy and Danny Dog are excited as Captain Daddy Dog returns from the sea.(n)</desc>
-  </programme>
-  <programme start="20200928140000 +0100" stop="20200928140500 +0100" channel="Nick Jr">
-    <title lang="en">Peppa Pig</title>
-    <desc lang="en">The children take a trip to a dinosaur park to celebrate Freddy Fox's birthday.(n)</desc>
-  </programme>
-  <programme start="20200928140500 +0100" stop="20200928141500 +0100" channel="Nick Jr">
-    <title lang="en">Peppa Pig</title>
-    <desc lang="en">Daddy Pig reads Peppa and George a bedtime story, but it is not long before the pair are awake again.(n)</desc>
-  </programme>
-  <programme start="20200928141500 +0100" stop="20200928142000 +0100" channel="Nick Jr">
-    <title lang="en">Peppa Pig</title>
-    <desc lang="en">After a family trip to a mountain beauty spot, Daddy Pig loses the car keys down a drain.(n)</desc>
-  </programme>
-  <programme start="20200928142000 +0100" stop="20200928143000 +0100" channel="Nick Jr">
-    <title lang="en">Peppa Pig</title>
-    <desc lang="en">George's favourite toy Mr Dinosaur breaks, so he goes to Mr Fox's shop to get a replacement and spots Dino Roar - which has a host of new features.(n)</desc>
-  </programme>
-  <programme start="20200928143000 +0100" stop="20200928144500 +0100" channel="Nick Jr">
-    <title lang="en">Ricky Zoom</title>
-    <desc lang="en">Officer Bunker takes a day off, so Don fills in for him as the town police officer, while Hank takes Don's place as local mail bike. But things soon.(n)</desc>
-  </programme>
-  <programme start="20200928144500 +0100" stop="20200928150000 +0100" channel="Nick Jr">
-    <title lang="en">Ricky Zoom</title>
-    <desc lang="en">Helen Zoom and Whoopie Whizzbang become very competitive at a family sports day race.(n)</desc>
-  </programme>
-  <programme start="20200928150000 +0100" stop="20200928151500 +0100" channel="Nick Jr">
-    <title lang="en">Paw Patrol</title>
-    <desc lang="en">The pups investigate when someone steals all the fish from the Flounder, and discover some lost penguins who need help getting home.(n)</desc>
-  </programme>
-  <programme start="20200928151500 +0100" stop="20200928153000 +0100" channel="Nick Jr">
-    <title lang="en">Paw Patrol</title>
-    <desc lang="en">Ryder and the pups use their inflatable toy dolphin to lure the newest member of Adventure Bay's dolphin family back into the ocean when it accidentally swims into shallow water.(n)</desc>
-  </programme>
-  <programme start="20200928153000 +0100" stop="20200928154500 +0100" channel="Nick Jr">
-    <title lang="en">Paw Patrol</title>
-    <desc lang="en">The residents of Adventure Bay are working hard to win the record for the world's tallest tower of pizzas.(n)</desc>
-  </programme>
-  <programme start="20200928154500 +0100" stop="20200928160000 +0100" channel="Nick Jr">
-    <title lang="en">Paw Patrol</title>
-    <desc lang="en">Mayor Humdinger creates fake emergencies for his kitties to save, so that they can appear to be better than the PAW Patrol. However, the plan soon goes awry.(n)</desc>
-  </programme>
-  <programme start="20200928160000 +0100" stop="20200928160500 +0100" channel="Nick Jr">
-    <title lang="en">Peppa Pig</title>
-    <desc lang="en">Madame Gazelle takes the children to Grampy Rabbit's gym class, where they learn how to be explorers.(n)</desc>
-  </programme>
-  <programme start="20200928160500 +0100" stop="20200928161500 +0100" channel="Nick Jr">
-    <title lang="en">Peppa Pig</title>
-    <desc lang="en">The youngster and her family collect apples and blackberries to make a pie.(n)</desc>
-  </programme>
-  <programme start="20200928161500 +0100" stop="20200928162000 +0100" channel="Nick Jr">
-    <title lang="en">Peppa Pig</title>
-    <desc lang="en">The family uses Daddy Pig's important documents to make paper aeroplanes, and he is upset when he finds them missing.(n)</desc>
-  </programme>
-  <programme start="20200928162000 +0100" stop="20200928163000 +0100" channel="Nick Jr">
-    <title lang="en">Peppa Pig</title>
-    <desc lang="en">The siblings wake up to discover that heavy rain has caused their house to become a desert island.(n)</desc>
-  </programme>
-  <programme start="20200928163000 +0100" stop="20200928164500 +0100" channel="Nick Jr">
-    <title lang="en">The Adventures of Paddington</title>
-    <desc lang="en">Paddington accidentally releases the school pet that Judy is looking after. Paddington and Judy search for it in the house and in Mr. Curry's garden!(n)</desc>
-  </programme>
-  <programme start="20200928164500 +0100" stop="20200928170000 +0100" channel="Nick Jr">
-    <title lang="en">The Adventures of Paddington</title>
-  </programme>
-  <programme start="20200928170000 +0100" stop="20200928171500 +0100" channel="Nick Jr">
-    <title lang="en">Paw Patrol</title>
-    <desc lang="en">A volcano is erupting, threatening the Dino Wilds!(n)</desc>
-  </programme>
-  <programme start="20200928171500 +0100" stop="20200928173000 +0100" channel="Nick Jr">
-    <title lang="en">Paw Patrol</title>
-    <desc lang="en">Mayor Goodway's purse has disappeared, along with its precious cargo, Chickaletta.(n)</desc>
-  </programme>
-  <programme start="20200928173000 +0100" stop="20200928180000 +0100" channel="Nick Jr">
+  <programme start="20200929083000 +0100" stop="20200929090000 +0100" channel="Nick Jr">
     <title lang="en">Blue's Clues &amp; You</title>
     <desc lang="en">Children's entertainment, hosted by Joshua Dela Cruz.(n)</desc>
   </programme>
-  <programme start="20200928180000 +0100" stop="20200928183000 +0100" channel="Nick Jr">
+  <programme start="20200929090000 +0100" stop="20200929093000 +0100" channel="Nick Jr">
     <title lang="en">Blaze and the Monster Machines</title>
-    <desc lang="en">It's Darington's birthday! Crusher uses a robot plate to try and steal the birthday cake, but his plan goes awry and the cake goes rocketing away! Can they save the party?(n)</desc>
+    <desc lang="en">It's the Championship Race of the fastest trucks in town! But when Crusher steals the trophy before the race even begins, it's up to Blaze and his friends to get it back..(n)</desc>
   </programme>
-  <programme start="20200928183000 +0100" stop="20200928184500 +0100" channel="Nick Jr">
-    <title lang="en">Abby Hatcher</title>
-    <desc lang="en">Teeny Terry thinks he doesn't have a talent, so Abby helps him prepare for the big Hotel Talent Show.(n)</desc>
-  </programme>
-  <programme start="20200928184500 +0100" stop="20200928190000 +0100" channel="Nick Jr">
-    <title lang="en">Abby Hatcher</title>
-    <desc lang="en">Chef Jeff's night-time tuba practice is keeping all the Fuzzlies awake, so Abby tries to find a way to get him to sleep.(n)</desc>
-  </programme>
-  <programme start="20200928190000 +0100" stop="20200928191500 +0100" channel="Nick Jr">
+  <programme start="20200929093000 +0100" stop="20200929094500 +0100" channel="Nick Jr">
     <title lang="en">Paw Patrol</title>
     <desc lang="en">Animated action adventure following a squad of six heroic puppies and their tech-savvy 10-year-old leader as they protect the community of Adventure Bay.(n)</desc>
   </programme>
-  <programme start="20200928191500 +0100" stop="20200928193000 +0100" channel="Nick Jr">
+  <programme start="20200929094500 +0100" stop="20200929100000 +0100" channel="Nick Jr">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Ryder and the pups have to stop a satellite from crash-landing after it falls out of orbit and heads for Adventure Bay.(n)</desc>
+  </programme>
+  <programme start="20200929100000 +0100" stop="20200929101500 +0100" channel="Nick Jr">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Ryder and the team help Mayor Goodway to save Adventure Bay's famous statue when it ends up underwater.(n)</desc>
+  </programme>
+  <programme start="20200929101500 +0100" stop="20200929103000 +0100" channel="Nick Jr">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Alex wants to join the Paw Patrol, but finds his first challenge - rescuing a cat - harder than expected.(n)</desc>
+  </programme>
+  <programme start="20200929103000 +0100" stop="20200929104500 +0100" channel="Nick Jr">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">It is Chase's birthday, but a storm threatens to halt the surprise party planned for him by Katie and the pups.(n)</desc>
+  </programme>
+  <programme start="20200929104500 +0100" stop="20200929110000 +0100" channel="Nick Jr">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">A baby bat takes a nap inside the Town Hall's bell and patrol try to rescue it without waking it up.(n)</desc>
+  </programme>
+  <programme start="20200929110000 +0100" stop="20200929111500 +0100" channel="Nick Jr">
+    <title lang="en">The Adventures of Paddington</title>
+    <desc lang="en">A pigeon comes down the chimney at 32 Windsor Gardens. Paddington nurses the poorly bird back to health and discovers a new friend, but can he let him go?(n)</desc>
+  </programme>
+  <programme start="20200929111500 +0100" stop="20200929113000 +0100" channel="Nick Jr">
+    <title lang="en">The Adventures of Paddington</title>
+    <desc lang="en">The family all have chores except Paddington. So as not to be excluded, Mr Brown creates a list for him to follow - however, Paddington picks up the wrong list..(n)</desc>
+  </programme>
+  <programme start="20200929113000 +0100" stop="20200929114500 +0100" channel="Nick Jr">
+    <title lang="en">Butterbean's Cafe</title>
+    <desc lang="en">When Poppy donates her cookbook by mistake, Ms. Marmalady finds it! Will she take all of Poppy's recipes?(n)</desc>
+  </programme>
+  <programme start="20200929114500 +0100" stop="20200929120000 +0100" channel="Nick Jr">
+    <title lang="en">Butterbean's Cafe</title>
+    <desc lang="en">Cricket makes special shirts for the cafe's barbeque, but the crew gets them all dirty. Will Cricket get upset?(n)</desc>
+  </programme>
+  <programme start="20200929120000 +0100" stop="20200929121500 +0100" channel="Nick Jr">
+    <title lang="en">Ben and Holly's Little Kingdom</title>
+    <desc lang="en">The duo grow to human size when a spell goes wrong, allowing them to play with Lucy and her friends.(n)</desc>
+  </programme>
+  <programme start="20200929121500 +0100" stop="20200929123000 +0100" channel="Nick Jr">
+    <title lang="en">Ben and Holly's Little Kingdom</title>
+    <desc lang="en">Daisy and Poppy are given a powerful magic wand by Granny Thistle when she comes to stay, and have fun with it when they escape from the castle.(n)</desc>
+  </programme>
+  <programme start="20200929123000 +0100" stop="20200929123500 +0100" channel="Nick Jr">
+    <title lang="en">Peppa Pig</title>
+    <desc lang="en">Inspired by Granny Pig's perfume, the piglet experiments with the flowers in her garden to make her own scent.(n)</desc>
+  </programme>
+  <programme start="20200929123500 +0100" stop="20200929124500 +0100" channel="Nick Jr">
+    <title lang="en">Peppa Pig</title>
+    <desc lang="en">The friends try to raise money to fix the school's leaky roof by organising a fete.(n)</desc>
+  </programme>
+  <programme start="20200929124500 +0100" stop="20200929125000 +0100" channel="Nick Jr">
+    <title lang="en">Peppa Pig</title>
+    <desc lang="en">Goldie the fish feels lonely, so Peppa takes her to the aquarium.(n)</desc>
+  </programme>
+  <programme start="20200929125000 +0100" stop="20200929130000 +0100" channel="Nick Jr">
+    <title lang="en">Peppa Pig</title>
+    <desc lang="en">Peppa, George and Grandpa Pig watch motor racing on the TV together.(n)</desc>
+  </programme>
+  <programme start="20200929130000 +0100" stop="20200929130500 +0100" channel="Nick Jr">
+    <title lang="en">Peppa Pig</title>
+    <desc lang="en">Daddy Pig gets left behind when his family has a picnic by the riverside.(n)</desc>
+  </programme>
+  <programme start="20200929130500 +0100" stop="20200929131500 +0100" channel="Nick Jr">
+    <title lang="en">Peppa Pig</title>
+    <desc lang="en">The piglet and her friends build a sandpit and all goes well until George and Richard's dinosaurs arrive.(n)</desc>
+  </programme>
+  <programme start="20200929131500 +0100" stop="20200929132000 +0100" channel="Nick Jr">
+    <title lang="en">Peppa Pig</title>
+    <desc lang="en">While spending the night at Grandpa and Granny Pig's house, George and Peppa stay up late to help catch slugs and snails.(n)</desc>
+  </programme>
+  <programme start="20200929132000 +0100" stop="20200929133000 +0100" channel="Nick Jr">
+    <title lang="en">Peppa Pig</title>
+    <desc lang="en">Peppa and George pack their favourite toys to take on holiday and Granny and Grandpa are left to look after Goldie the Fish.(n)</desc>
+  </programme>
+  <programme start="20200929133000 +0100" stop="20200929133500 +0100" channel="Nick Jr">
+    <title lang="en">Peppa Pig</title>
+    <desc lang="en">Peppa and her family go to Italy, where Daddy Pig has trouble driving on the other side of the road.(n)</desc>
+  </programme>
+  <programme start="20200929133500 +0100" stop="20200929134500 +0100" channel="Nick Jr">
+    <title lang="en">Peppa Pig</title>
+    <desc lang="en">The piglet and her family spend the first day in their Italian holiday villa before visiting a nearby village, where they find plenty of things to buy.(n)</desc>
+  </programme>
+  <programme start="20200929134500 +0100" stop="20200929135000 +0100" channel="Nick Jr">
+    <title lang="en">Peppa Pig</title>
+    <desc lang="en">Miss Rabbit has all kinds of boats for hire down at the lake, and Daddy Pig picks one with pedals. However, when the families race, he wishes he had chosen an easier one to sail.(n)</desc>
+  </programme>
+  <programme start="20200929135000 +0100" stop="20200929140000 +0100" channel="Nick Jr">
+    <title lang="en">Peppa Pig</title>
+    <desc lang="en">Mr Bull accidentally breaks a teapot and takes the pieces to Miss Rabbit, in the hope she can fix it.(n)</desc>
+  </programme>
+  <programme start="20200929140000 +0100" stop="20200929140500 +0100" channel="Nick Jr">
+    <title lang="en">Peppa Pig</title>
+    <desc lang="en">Miss Rabbit makes smoothies and gives George a special 'dinosaur' juice to make him strong.(n)</desc>
+  </programme>
+  <programme start="20200929140500 +0100" stop="20200929141500 +0100" channel="Nick Jr">
+    <title lang="en">Peppa Pig</title>
+    <desc lang="en">George needs help to keep hold of his enormous dinosaur balloon.(n)</desc>
+  </programme>
+  <programme start="20200929141500 +0100" stop="20200929142000 +0100" channel="Nick Jr">
+    <title lang="en">Peppa Pig</title>
+    <desc lang="en">Peppa and her friends put together a chest of pirate treasure and bury it under a marked spot, but Pedro soon realises he has lost something.(n)</desc>
+  </programme>
+  <programme start="20200929142000 +0100" stop="20200929143000 +0100" channel="Nick Jr">
+    <title lang="en">Peppa Pig</title>
+    <desc lang="en">Grampy Rabbit loses his voice while telling the children a story about space rockets, and it is left to Doctor Brown Bear to get him talking again.(n)</desc>
+  </programme>
+  <programme start="20200929143000 +0100" stop="20200929144500 +0100" channel="Nick Jr">
+    <title lang="en">Ricky Zoom</title>
+    <desc lang="en">When Ricky is busy playing with Dasher and leaving his friends out, the other buddies form a new club with Toot.(n)</desc>
+  </programme>
+  <programme start="20200929144500 +0100" stop="20200929150000 +0100" channel="Nick Jr">
+    <title lang="en">Ricky Zoom</title>
+    <desc lang="en">Ricky is asked to look after Toot and won't let her go on any of the exciting rides in the adventure park.(n)</desc>
+  </programme>
+  <programme start="20200929150000 +0100" stop="20200929151500 +0100" channel="Nick Jr">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">A flying saucer crashes on Farmer Yumi's land, and the pups help the pilot to return to his own planet.(n)</desc>
+  </programme>
+  <programme start="20200929151500 +0100" stop="20200929153000 +0100" channel="Nick Jr">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Marshall's new pet Smiley is practising for a jumping competition, but the naughty frog hops into Skye's helicopter and activates the controls.(n)</desc>
+  </programme>
+  <programme start="20200929153000 +0100" stop="20200929154500 +0100" channel="Nick Jr">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">The Wingnuts get a new pet ostrich, but it gets lost on the trip home. The PAW Patrol must find and lead it to the Wingnuts' ranch.(n)</desc>
+  </programme>
+  <programme start="20200929154500 +0100" stop="20200929160000 +0100" channel="Nick Jr">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">When a big ape follows the pups home, they must lure him onto the Paw Patroller so they can take him back to the jungle.(n)</desc>
+  </programme>
+  <programme start="20200929160000 +0100" stop="20200929160500 +0100" channel="Nick Jr">
+    <title lang="en">Peppa Pig</title>
+    <desc lang="en">Daddy Pig takes Peppa and George to visit a house that Mr Bull is building.(n)</desc>
+  </programme>
+  <programme start="20200929160500 +0100" stop="20200929161500 +0100" channel="Nick Jr">
+    <title lang="en">Peppa Pig</title>
+    <desc lang="en">Dr Hamster's pet tortoise Tiddles becomes stuck up a tree and needs rescuing.(n)</desc>
+  </programme>
+  <programme start="20200929161500 +0100" stop="20200929162000 +0100" channel="Nick Jr">
+    <title lang="en">Peppa Pig</title>
+    <desc lang="en">The piglet and her brother George realise they have shadows and cannot escape from them.(n)</desc>
+  </programme>
+  <programme start="20200929162000 +0100" stop="20200929163000 +0100" channel="Nick Jr">
+    <title lang="en">Peppa Pig</title>
+    <desc lang="en">The piglet and her playgroup friends dress up as countries from around the world.(n)</desc>
+  </programme>
+  <programme start="20200929163000 +0100" stop="20200929164500 +0100" channel="Nick Jr">
+    <title lang="en">The Adventures of Paddington</title>
+    <desc lang="en">Paddington meets Mateo's dog Lucky! Paddington tries to teach him tricks, but Lucky will not behave.(n)</desc>
+  </programme>
+  <programme start="20200929164500 +0100" stop="20200929170000 +0100" channel="Nick Jr">
+    <title lang="en">The Adventures of Paddington</title>
+    <desc lang="en">It's Love Day in Windsor Gardens! Paddington is on a mission to deliver Love Day cards to all his friends..(n)</desc>
+  </programme>
+  <programme start="20200929170000 +0100" stop="20200929171500 +0100" channel="Nick Jr">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Olivia the Ostrich has fallen in to the canyon, so the pups need to work together to lift her to safety, while keeping her soon-to-hatch eggs warm.(n)</desc>
+  </programme>
+  <programme start="20200929171500 +0100" stop="20200929173000 +0100" channel="Nick Jr">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Gustavo Goodway's guitar goes missing and the pups need to find it before the evening campfire concert.(n)</desc>
+  </programme>
+  <programme start="20200929173000 +0100" stop="20200929180000 +0100" channel="Nick Jr">
+    <title lang="en">Blue's Clues &amp; You</title>
+    <desc lang="en">It's a special nighttime game of Blue's Clues for her first pajama party. We learn about why it gets dark and light outside and which animals prefer the nighttime.(n)</desc>
+  </programme>
+  <programme start="20200929180000 +0100" stop="20200929183000 +0100" channel="Nick Jr">
+    <title lang="en">Blaze and the Monster Machines</title>
+    <desc lang="en">Blaze and AJ take off into space for a race that's out of this world! Along the way, they meet friendly aliens, dodge asteroids, and face Crusher's space ship!(n)</desc>
+  </programme>
+  <programme start="20200929183000 +0100" stop="20200929184500 +0100" channel="Nick Jr">
+    <title lang="en">Abby Hatcher</title>
+    <desc lang="en">Princess Flug thinks Melvin's surprise party is for her, and gets very upset when she realises that it's not.(n)</desc>
+  </programme>
+  <programme start="20200929184500 +0100" stop="20200929190000 +0100" channel="Nick Jr">
+    <title lang="en">Abby Hatcher</title>
+    <desc lang="en">When the Fuzzly twins, Mo and Bo, get separated in the hotel, it's up to Abby to get them back together again..(n)</desc>
+  </programme>
+  <programme start="20200929190000 +0100" stop="20200929191500 +0100" channel="Nick Jr">
     <title lang="en">Paw Patrol</title>
     <desc lang="en">Animated action adventure following a squad of six heroic puppies and their tech-savvy 10-year-old leader as they protect the community of Adventure Bay.(n)</desc>
   </programme>
-  <programme start="20200928193000 +0100" stop="20200928194500 +0100" channel="Nick Jr">
+  <programme start="20200929191500 +0100" stop="20200929193000 +0100" channel="Nick Jr">
     <title lang="en">Paw Patrol</title>
-    <desc lang="en">Everything is shaking and breaking beneath Adventure Bay! Ryder will need Rocky to lead the pups on an Ultimate Fix-it Rescue!(n)</desc>
+    <desc lang="en">Mayor Humdinger finally gets super powers, and it's a total cat-astrophe! The Mighty Pups are summoned to save the Mega Mayor from himself..(n)</desc>
   </programme>
-  <programme start="20200928194500 +0100" stop="20200928200000 +0100" channel="Nick Jr">
+  <programme start="20200929193000 +0100" stop="20200929194500 +0100" channel="Nick Jr">
     <title lang="en">Paw Patrol</title>
-    <desc lang="en">Jake's family cuckoo clock is sliding down the mountainside with Chickaletta stuck inside, so Ryder calls on Everest to help the pups save the day.(n)</desc>
+    <desc lang="en">Alex and Mr Porter are on a camping trip to a tropical Island when a freak snowstorm hits.(n)</desc>
   </programme>
-  <programme start="20200928200000 +0100" stop="20200928201500 +0100" channel="Nick Jr">
+  <programme start="20200929194500 +0100" stop="20200929200000 +0100" channel="Nick Jr">
     <title lang="en">Paw Patrol</title>
-    <desc lang="en">The team investigates when mysterious holes begin appearing all over Ms Marjorie's yard.(n)</desc>
+    <desc lang="en">Farmer Yumi's new Robo-Corn Plucker goes haywire, and Ryder and the Paw Patrol must get it under control.(n)</desc>
   </programme>
-  <programme start="20200928201500 +0100" stop="20200928203000 +0100" channel="Nick Jr">
+  <programme start="20200929200000 +0100" stop="20200929201500 +0100" channel="Nick Jr">
     <title lang="en">Paw Patrol</title>
-    <desc lang="en">The bouncy turkey from the Thanksgiving feast at City Hall has flown away with Mayor Humdinger and his kittens.(n)</desc>
+    <desc lang="en">Daring Danny X, dressed as a bird mascot, gets carried away by a couple of eagles who mistake him for one of their own.(n)</desc>
   </programme>
-  <programme start="20200928203000 +0100" stop="20200928204500 +0100" channel="Nick Jr">
+  <programme start="20200929201500 +0100" stop="20200929203000 +0100" channel="Nick Jr">
     <title lang="en">Paw Patrol</title>
-    <desc lang="en">A really strong wind has suddenly swept up all the surfers in the Adventure Bay Windsurfing Race.(n)</desc>
+    <desc lang="en">Rocky and the Pups are fixing an Old-Timey Junk Car for Ace Sorensen's Birthday.(n)</desc>
   </programme>
-  <programme start="20200928204500 +0100" stop="20200928210000 +0100" channel="Nick Jr">
-    <title lang="en">Paw Patrol</title>
-    <desc lang="en">Mr Porter is delivering his famous fizzy pickles to people around town when a bumpy road shakes up the deliveries and causes the pickle jars to pop.(n)</desc>
-  </programme>
-  <programme start="20200928210000 +0100" stop="20200928211500 +0100" channel="Nick Jr">
+  <programme start="20200929203000 +0100" stop="20200929204500 +0100" channel="Nick Jr">
     <title lang="en">Paw Patrol</title>
     <desc lang="en">The residents of Adventure Bay are working hard to win the record for the world's tallest tower of pizzas.(n)</desc>
   </programme>
-  <programme start="20200928211500 +0100" stop="20200928213000 +0100" channel="Nick Jr">
+  <programme start="20200929204500 +0100" stop="20200929210000 +0100" channel="Nick Jr">
     <title lang="en">Paw Patrol</title>
-    <desc lang="en">An ice floe carrying three penguins lands in the jungle, and the pups must get the birds back to their frosty home.(n)</desc>
+    <desc lang="en">Mayor Humdinger creates fake emergencies for his kitties to save, so that they can appear to be better than the PAW Patrol. However, the plan soon goes awry.(n)</desc>
   </programme>
-  <programme start="20200928213000 +0100" stop="20200928214500 +0100" channel="Nick Jr">
+  <programme start="20200929210000 +0100" stop="20200929211500 +0100" channel="Nick Jr">
     <title lang="en">Paw Patrol</title>
-    <desc lang="en">Daring Danny is locked out of the lighthouse Turbot left him to look after, and now a freighter is headed straight for Seal Island.(n)</desc>
+    <desc lang="en">Olivia the Ostrich has fallen in to the canyon, so the pups need to work together to lift her to safety, while keeping her soon-to-hatch eggs warm.(n)</desc>
   </programme>
-  <programme start="20200928214500 +0100" stop="20200928220000 +0100" channel="Nick Jr">
+  <programme start="20200929211500 +0100" stop="20200929213000 +0100" channel="Nick Jr">
     <title lang="en">Paw Patrol</title>
-    <desc lang="en">It is such a hot day in Adventure Bay that things are starting to melt, so the pups need a lot of fire-pup power to cool things down.(n)</desc>
+    <desc lang="en">Gustavo Goodway's guitar goes missing and the pups need to find it before the evening campfire concert.(n)</desc>
   </programme>
-  <programme start="20200928220000 +0100" stop="20200928221500 +0100" channel="Nick Jr">
+  <programme start="20200929213000 +0100" stop="20200929214500 +0100" channel="Nick Jr">
     <title lang="en">Paw Patrol</title>
-    <desc lang="en">Mobile phones are vanishing all over Adventure Bay, and the pups will need a lot of police power to solve this mystery.(n)</desc>
+    <desc lang="en">Farmer Yumi's new yoga goat class is a hit - until her goats go missing. The Paw Patrol must find the goats and return them safely to Yumi's farm.(n)</desc>
   </programme>
-  <programme start="20200928221500 +0100" stop="20200928223000 +0100" channel="Nick Jr">
+  <programme start="20200929214500 +0100" stop="20200929220000 +0100" channel="Nick Jr">
     <title lang="en">Paw Patrol</title>
-    <desc lang="en">The canine team films an entry for the local film festival, but Daring Danny X puts the entire project in jeopardy.(n)</desc>
+    <desc lang="en">The Turbots get trapped somewhere in the jungle. They tried to call the PAW Patrol, but their phone cuts out.(n)</desc>
   </programme>
-  <programme start="20200928223000 +0100" stop="20200928224500 +0100" channel="Nick Jr">
+  <programme start="20200929220000 +0100" stop="20200929221500 +0100" channel="Nick Jr">
     <title lang="en">Paw Patrol</title>
-    <desc lang="en">When Farmer Al's truck gets stuck on a broken bridge, it's up to the pups to lower them to safety.(n)</desc>
+    <desc lang="en">Chickaletta lays an egg, but it rolls away and is heading through town. The Paw Patrol has to catch it before it breaks.(n)</desc>
   </programme>
-  <programme start="20200928224500 +0100" stop="20200928230000 +0100" channel="Nick Jr">
+  <programme start="20200929221500 +0100" stop="20200929223000 +0100" channel="Nick Jr">
     <title lang="en">Paw Patrol</title>
-    <desc lang="en">Farmer Yumi's honey and her beehive go missing from her farm.(n)</desc>
+    <desc lang="en">Farmers Al and Yumi need help from the crew to transport a manatee to the swamp.(n)</desc>
   </programme>
-  <programme start="20200928230000 +0100" stop="20200928231500 +0100" channel="Nick Jr">
+  <programme start="20200929223000 +0100" stop="20200929224500 +0100" channel="Nick Jr">
     <title lang="en">Paw Patrol</title>
-    <desc lang="en">Mayor Goodway's purse has disappeared, along with its precious cargo, Chickaletta.(n)</desc>
+    <desc lang="en">Animated action adventure following a squad of six heroic puppies and their tech-savvy 10-year-old leader as they protect the community of Adventure Bay.(n)</desc>
   </programme>
-  <programme start="20200928231500 +0100" stop="20200928233000 +0100" channel="Nick Jr">
+  <programme start="20200929224500 +0100" stop="20200929230000 +0100" channel="Nick Jr">
     <title lang="en">Paw Patrol</title>
-    <desc lang="en">Mayor Goodway, Danny, and the Turbots are stuck in a canyon in the mountains. Time for a high-flying Ultimate Rescue lead by Skye!(n)</desc>
+    <desc lang="en">Animated action adventure following a squad of six heroic puppies and their tech-savvy 10-year-old leader as they protect the community of Adventure Bay.(n)</desc>
   </programme>
-  <programme start="20200928233000 +0100" stop="20200928234500 +0100" channel="Nick Jr">
+  <programme start="20200929230000 +0100" stop="20200929231500 +0100" channel="Nick Jr">
     <title lang="en">Paw Patrol</title>
-    <desc lang="en">Rubble leads the pups in building an emergency landing pad for Captain Gordy.(n)</desc>
+    <desc lang="en">Animated action adventure following a squad of six heroic puppies and their tech-savvy 10-year-old leader as they protect the community of Adventure Bay.(n)</desc>
   </programme>
-  <programme start="20200928234500 +0100" stop="20200929000000 +0100" channel="Nick Jr">
+  <programme start="20200929231500 +0100" stop="20200929233000 +0100" channel="Nick Jr">
     <title lang="en">Paw Patrol</title>
-    <desc lang="en">A strange odour chases the jungle animals away from their homes.(n)</desc>
+    <desc lang="en">Chase and Chickaletta switch bodies and must learn to work together to return Cap'n Turbot's boat to the bay.(n)</desc>
   </programme>
-  <programme start="20200928200500 +0700" stop="20200928210000 +0700" channel="Berita Satu">
-    <title lang="id">New Normal</title>
+  <programme start="20200929233000 +0100" stop="20200929234500 +0100" channel="Nick Jr">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Animated action adventure following a squad of six heroic puppies and their tech-savvy 10-year-old leader as they protect the community of Adventure Bay.(n)</desc>
   </programme>
-  <programme start="20200928210000 +0700" stop="20200928210500 +0700" channel="Berita Satu">
+  <programme start="20200929234500 +0100" stop="20200930000000 +0100" channel="Nick Jr">
+    <title lang="en">Paw Patrol</title>
+    <desc lang="en">Animated action adventure following a squad of six heroic puppies and their tech-savvy 10-year-old leader as they protect the community of Adventure Bay.(n)</desc>
+  </programme>
+  <programme start="20200929130500 +0700" stop="20200929140000 +0700" channel="Berita Satu">
+    <title lang="id">Lunch Talk</title>
+  </programme>
+  <programme start="20200929140000 +0700" stop="20200929140500 +0700" channel="Berita Satu">
     <title lang="id">News Update</title>
   </programme>
-  <programme start="20200928210500 +0700" stop="20200928213000 +0700" channel="Berita Satu">
+  <programme start="20200929140500 +0700" stop="20200929143000 +0700" channel="Berita Satu">
+    <title lang="id">Business Round Up</title>
+  </programme>
+  <programme start="20200929143000 +0700" stop="20200929150000 +0700" channel="Berita Satu">
+    <title lang="id">Closing Market</title>
+  </programme>
+  <programme start="20200929150000 +0700" stop="20200929150500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20200929150500 +0700" stop="20200929153000 +0700" channel="Berita Satu">
+    <title lang="id">Closing Market</title>
+  </programme>
+  <programme start="20200929153000 +0700" stop="20200929160000 +0700" channel="Berita Satu">
+    <title lang="id">COVID Update</title>
+  </programme>
+  <programme start="20200929160000 +0700" stop="20200929160500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20200929160500 +0700" stop="20200929163000 +0700" channel="Berita Satu">
+    <title lang="id">BeritaSatu Highlights</title>
+  </programme>
+  <programme start="20200929163000 +0700" stop="20200929170000 +0700" channel="Berita Satu">
+    <title lang="id">Prime Time</title>
+  </programme>
+  <programme start="20200929170000 +0700" stop="20200929170500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20200929170500 +0700" stop="20200929173000 +0700" channel="Berita Satu">
+    <title lang="id">Prime Time</title>
+  </programme>
+  <programme start="20200929173000 +0700" stop="20200929180000 +0700" channel="Berita Satu">
+    <title lang="id">Hot Economy</title>
+  </programme>
+  <programme start="20200929180000 +0700" stop="20200929180500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20200929180500 +0700" stop="20200929183000 +0700" channel="Berita Satu">
+    <title lang="id">Hot Economy</title>
+  </programme>
+  <programme start="20200929183000 +0700" stop="20200929190000 +0700" channel="Berita Satu">
+    <title lang="id">Connect 360</title>
+  </programme>
+  <programme start="20200929190000 +0700" stop="20200929190500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20200929190500 +0700" stop="20200929193000 +0700" channel="Berita Satu">
+    <title lang="id">Connect 360</title>
+  </programme>
+  <programme start="20200929193000 +0700" stop="20200929200000 +0700" channel="Berita Satu">
+    <title lang="id">Fakta Data</title>
+  </programme>
+  <programme start="20200929200000 +0700" stop="20200929200500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20200929200500 +0700" stop="20200929210000 +0700" channel="Berita Satu">
+    <title lang="id">Creative Money</title>
+  </programme>
+  <programme start="20200929210000 +0700" stop="20200929210500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20200929210500 +0700" stop="20200929213000 +0700" channel="Berita Satu">
     <title lang="id">Money Report</title>
   </programme>
-  <programme start="20200928213000 +0700" stop="20200928220000 +0700" channel="Berita Satu">
+  <programme start="20200929213000 +0700" stop="20200929220000 +0700" channel="Berita Satu">
     <title lang="id">Prime Time</title>
   </programme>
-  <programme start="20200928220000 +0700" stop="20200928220500 +0700" channel="Berita Satu">
+  <programme start="20200929220000 +0700" stop="20200929220500 +0700" channel="Berita Satu">
     <title lang="id">News Update</title>
   </programme>
-  <programme start="20200928220500 +0700" stop="20200928223000 +0700" channel="Berita Satu">
+  <programme start="20200929220500 +0700" stop="20200929223000 +0700" channel="Berita Satu">
     <title lang="id">Prime Time</title>
   </programme>
-  <programme start="20200928223000 +0700" stop="20200928230000 +0700" channel="Berita Satu">
-    <title lang="id">News Buzz</title>
+  <programme start="20200929223000 +0700" stop="20200929230000 +0700" channel="Berita Satu">
+    <title lang="id">Indepth</title>
   </programme>
-  <programme start="20200928230000 +0700" stop="20200928230500 +0700" channel="Berita Satu">
+  <programme start="20200929230000 +0700" stop="20200929230500 +0700" channel="Berita Satu">
     <title lang="id">News Update</title>
   </programme>
-  <programme start="20200928230500 +0700" stop="20200929000000 +0700" channel="Berita Satu">
+  <programme start="20200929230500 +0700" stop="20200930000000 +0700" channel="Berita Satu">
     <title lang="id">Corporate Action</title>
   </programme>
-  <programme start="20200928203000 +0700" stop="20200928210000 +0700" channel="TVRI">
-    <title lang="id">Sinema Kethoprak</title>
+  <programme start="20200929133000 +0700" stop="20200929140000 +0700" channel="TVRI">
+    <title lang="id">Feature LKBN Antara</title>
   </programme>
-  <programme start="20200928210000 +0700" stop="20200928213000 +0700" channel="TVRI">
+  <programme start="20200929140000 +0700" stop="20200929140300 +0700" channel="TVRI">
+    <title lang="id">Info Terkini</title>
+  </programme>
+  <programme start="20200929140300 +0700" stop="20200929150000 +0700" channel="TVRI">
+    <title lang="id">Indonesia Sehat</title>
+  </programme>
+  <programme start="20200929150000 +0700" stop="20200929150300 +0700" channel="TVRI">
+    <title lang="id">Info Terkini</title>
+  </programme>
+  <programme start="20200929150300 +0700" stop="20200929153000 +0700" channel="TVRI">
+    <title lang="id">Pesona Indonesia</title>
+  </programme>
+  <programme start="20200929153000 +0700" stop="20200929160000 +0700" channel="TVRI">
+    <title lang="id">Inspirasi Indonesia</title>
+  </programme>
+  <programme start="20200929160000 +0700" stop="20200929170000 +0700" channel="TVRI">
+    <title lang="id">Info Terkini COVID 19</title>
+  </programme>
+  <programme start="20200929170000 +0700" stop="20200929173000 +0700" channel="TVRI">
+    <title lang="id">Mimbar Agama Protestan</title>
+  </programme>
+  <programme start="20200929173000 +0700" stop="20200929180000 +0700" channel="TVRI">
+    <title lang="id">English News Service</title>
+  </programme>
+  <programme start="20200929180000 +0700" stop="20200929190000 +0700" channel="TVRI">
+    <title lang="id">Klik Indonesia Malam</title>
+  </programme>
+  <programme start="20200929190000 +0700" stop="20200929200000 +0700" channel="TVRI">
+    <title lang="id">Mencari Pemimpin</title>
+  </programme>
+  <programme start="20200929200000 +0700" stop="20200929200300 +0700" channel="TVRI">
+    <title lang="id">Info Terkini</title>
+  </programme>
+  <programme start="20200929200300 +0700" stop="20200929210000 +0700" channel="TVRI">
+    <title lang="id">Musik Indonesia</title>
+  </programme>
+  <programme start="20200929210000 +0700" stop="20200929213000 +0700" channel="TVRI">
     <title lang="id">Dunia Dalam Berita</title>
   </programme>
-  <programme start="20200928213000 +0700" stop="20200928223000 +0700" channel="TVRI">
-    <title lang="id">Indonesia Bicara</title>
+  <programme start="20200929213000 +0700" stop="20200929233000 +0700" channel="TVRI">
+    <title lang="id">MNC Shop</title>
   </programme>
-  <programme start="20200928223000 +0700" stop="20200929000000 +0700" channel="TVRI">
-    <title lang="id">Pentas Budaya</title>
+  <programme start="20200929233000 +0700" stop="20200930000000 +0700" channel="TVRI">
+    <title lang="id">Inspirasi Indonesia</title>
   </programme>
-  <programme start="20200928200000 +0700" stop="20200928220000 +0700" channel="CNBC">
+  <programme start="20200929120000 +0700" stop="20200929150000 +0700" channel="CNBC">
+    <title lang="id">Squawk Box US</title>
+  </programme>
+  <programme start="20200929150000 +0700" stop="20200929160000 +0700" channel="CNBC">
+    <title lang="id">Street Signs Asia</title>
+  </programme>
+  <programme start="20200929160000 +0700" stop="20200929170000 +0700" channel="CNBC">
+    <title lang="id">Worldwide Exchange</title>
+  </programme>
+  <programme start="20200929170000 +0700" stop="20200929200000 +0700" channel="CNBC">
+    <title lang="id">Squawk Box US</title>
+  </programme>
+  <programme start="20200929200000 +0700" stop="20200929220000 +0700" channel="CNBC">
     <title lang="id">Squawk On The Street</title>
   </programme>
-  <programme start="20200928220000 +0700" stop="20200928230000 +0700" channel="CNBC">
+  <programme start="20200929220000 +0700" stop="20200929230000 +0700" channel="CNBC">
     <title lang="id">Squawk Alley US</title>
   </programme>
-  <programme start="20200928230000 +0700" stop="20200929000000 +0700" channel="CNBC">
+  <programme start="20200929230000 +0700" stop="20200930000000 +0700" channel="CNBC">
     <title lang="id">Fast Money: Halftime Report</title>
   </programme>
-  <programme start="20200928202500 +0700" stop="20200928214200 +0700" channel="One HD">
-    <title lang="id">Alice</title>
+  <programme start="20200929132000 +0700" stop="20200929140000 +0700" channel="One HD">
+    <title lang="id">VIP</title>
   </programme>
-  <programme start="20200928214200 +0700" stop="20200928230000 +0700" channel="One HD">
-    <title lang="id">Alice</title>
+  <programme start="20200929140000 +0700" stop="20200929142000 +0700" channel="One HD">
+    <title lang="id">K-Hits</title>
   </programme>
-  <programme start="20200928230000 +0700" stop="20200929004000 +0700" channel="One HD">
-    <title lang="id">Delicious Rendezvous</title>
+  <programme start="20200929142000 +0700" stop="20200929153500 +0700" channel="One HD">
+    <title lang="id">Do You Like Brahms?</title>
+  </programme>
+  <programme start="20200929153500 +0700" stop="20200929164500 +0700" channel="One HD">
+    <title lang="id">Madly In Love</title>
+  </programme>
+  <programme start="20200929164500 +0700" stop="20200929175500 +0700" channel="One HD">
+    <title lang="id">Madly In Love</title>
+  </programme>
+  <programme start="20200929175500 +0700" stop="20200929183300 +0700" channel="One HD">
+    <title lang="id">VIP</title>
+  </programme>
+  <programme start="20200929183300 +0700" stop="20200929191000 +0700" channel="One HD">
+    <title lang="id">VIP</title>
+  </programme>
+  <programme start="20200929191000 +0700" stop="20200929202500 +0700" channel="One HD">
+    <title lang="id">Do You Like Brahms?</title>
+  </programme>
+  <programme start="20200929202500 +0700" stop="20200929211000 +0700" channel="One HD">
+    <title lang="id">Wanna Taste?</title>
+  </programme>
+  <programme start="20200929211000 +0700" stop="20200929220000 +0700" channel="One HD">
+    <title lang="id">Wanna Taste?</title>
+  </programme>
+  <programme start="20200929220000 +0700" stop="20200929233000 +0700" channel="One HD">
+    <title lang="id">Law Of The Jungle In KOR</title>
+  </programme>
+  <programme start="20200929233000 +0700" stop="20200929234500 +0700" channel="One HD">
+    <title lang="id">K-Hits</title>
+  </programme>
+  <programme start="20200929234500 +0700" stop="20200930010000 +0700" channel="One HD">
+    <title lang="id">Do You Like Brahms?</title>
   </programme>
 </tv>
