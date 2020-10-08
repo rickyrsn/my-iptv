@@ -45,36 +45,494 @@
     <icon src="https://mncvision.id/userfiles/image/channel/channel_445.png" />
     <url>http://www.mncvision.id.E</url>
   </channel>
-  <programme start="20201006084000 +0000" stop="20201006091000 +0000" channel="Disney Junior USA - East">
-    <title lang="en">Bluey</title>
-    <desc lang="en">Bluey and her family play a game in the house with a balloon; Bluey and Bingo argue over a magic xylophone; Bluey, Coco and Snickers play a game called Shadowlands.(n)</desc>
+  <programme start="20201008100000 +0700" stop="20201008100500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
   </programme>
-  <programme start="20201006091000 +0000" stop="20201006093500 +0000" channel="Disney Junior USA - East">
-    <title lang="en">Mickey Mouse Clubhouse</title>
-    <desc lang="en">In order to help his friends solve a puzzle, Goofy uses his alter-ego 'Super Goof'.(n)</desc>
+  <programme start="20201008100500 +0700" stop="20201008110000 +0700" channel="Metro TV">
+    <title lang="id">Debat President AS Cawapres (L)</title>
   </programme>
-  <programme start="20201006093500 +0000" stop="20201006100000 +0000" channel="Disney Junior USA - East">
-    <title lang="en">Mickey Mouse Clubhouse</title>
-    <desc lang="en">Everyone wins a Blue Ribbon for participating in Mickey's Farm Fun-Fair.(n)</desc>
+  <programme start="20201008110000 +0700" stop="20201008110500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
   </programme>
-  <programme start="20201006100000 +0000" stop="20201006102500 +0000" channel="Disney Junior USA - East">
-    <title lang="en">Mickey Mouse Clubhouse</title>
-    <desc lang="en">By playing a variety of games, Pluto and Butch, Pete's dog competing for a trophy.(n)</desc>
+  <programme start="20201008110500 +0700" stop="20201008120000 +0700" channel="Metro TV">
+    <title lang="id">Metro Siang</title>
   </programme>
-  <programme start="20201006102500 +0000" stop="20201006105500 +0000" channel="Disney Junior USA - East">
-    <title lang="en">Mickey Mouse Clubhouse</title>
-    <desc lang="en">Donald becomes a genuine magical genie and realizes it is not as easy as it sounds when he is only able to grant one wish to each Clubhouse friend.(n)</desc>
+  <programme start="20201008120000 +0700" stop="20201008120500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
   </programme>
-  <programme start="20201006105500 +0000" stop="20201006115000 +0000" channel="Disney Junior USA - East">
-    <title lang="en">Mickey Mouse Clubhouse</title>
-    <desc lang="en">Mickey Mouse and his friends teach important skills through their adventures.(n)</desc>
+  <programme start="20201008120500 +0700" stop="20201008130000 +0700" channel="Metro TV">
+    <title lang="id">Metro Siang</title>
   </programme>
-  <programme start="20201006115000 +0000" stop="20201006121500 +0000" channel="Disney Junior USA - East">
-    <title lang="en">Mickey Mouse Clubhouse</title>
-    <desc lang="en">Mickey presents his Fun Puzzles.(n)</desc>
+  <programme start="20201008130000 +0700" stop="20201008130500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
   </programme>
-  <programme start="20201006121500 +0000" stop="20201006124000 +0000" channel="Disney Junior USA - East">
-    <title lang="en">Chuggington</title>
-    <desc lang="en">Young rookie trains learn how to help themselves and the people of their town.(n)</desc>
+  <programme start="20201008130500 +0700" stop="20201008140000 +0700" channel="Metro TV">
+    <title lang="id">Newsline</title>
+  </programme>
+  <programme start="20201008140000 +0700" stop="20201008140500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20201008140500 +0700" stop="20201008150500 +0700" channel="Metro TV">
+    <title lang="id">Newsline</title>
+  </programme>
+  <programme start="20201008150500 +0700" stop="20201008153000 +0700" channel="Metro TV">
+    <title lang="id">Election 2020 Update</title>
+  </programme>
+  <programme start="20201008153000 +0700" stop="20201008160000 +0700" channel="Metro TV">
+    <title lang="id">COVID-19 Update</title>
+  </programme>
+  <programme start="20201008160000 +0700" stop="20201008160500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20201008160500 +0700" stop="20201008170000 +0700" channel="Metro TV">
+    <title lang="id">Metro Hari Ini</title>
+  </programme>
+  <programme start="20201008170000 +0700" stop="20201008170500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20201008170500 +0700" stop="20201008173000 +0700" channel="Metro TV">
+    <title lang="id">Metro Hari Ini</title>
+  </programme>
+  <programme start="20201008173000 +0700" stop="20201008180000 +0700" channel="Metro TV">
+    <title lang="id">Primetime News</title>
+  </programme>
+  <programme start="20201008180000 +0700" stop="20201008180500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20201008180500 +0700" stop="20201008190000 +0700" channel="Metro TV">
+    <title lang="id">Primetime News</title>
+  </programme>
+  <programme start="20201008190000 +0700" stop="20201008190500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20201008190500 +0700" stop="20201008200000 +0700" channel="Metro TV">
+    <title lang="id">Primetalk</title>
+  </programme>
+  <programme start="20201008200000 +0700" stop="20201008200500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20201008200500 +0700" stop="20201008210000 +0700" channel="Metro TV">
+    <title lang="id">Sharia Economic Talk: G. Yasni</title>
+  </programme>
+  <programme start="20201008210000 +0700" stop="20201008210500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20201008210500 +0700" stop="20201008220000 +0700" channel="Metro TV">
+    <title lang="id">Top News</title>
+  </programme>
+  <programme start="20201008220000 +0700" stop="20201008220500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20201008220500 +0700" stop="20201008223000 +0700" channel="Metro TV">
+    <title lang="id">Metro Sport</title>
+  </programme>
+  <programme start="20201008223000 +0700" stop="20201008230000 +0700" channel="Metro TV">
+    <title lang="id">Metro Malam</title>
+  </programme>
+  <programme start="20201008230000 +0700" stop="20201008233000 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20201008233000 +0700" stop="20201009000000 +0700" channel="Metro TV">
+    <title lang="id">Primetime News</title>
+  </programme>
+  <programme start="20201008100000 +0700" stop="20201008103000 +0700" channel="Trans 7">
+    <title lang="id">Kepopedia</title>
+  </programme>
+  <programme start="20201008103000 +0700" stop="20201008110000 +0700" channel="Trans 7">
+    <title lang="id">Sobat Misqueen</title>
+  </programme>
+  <programme start="20201008110000 +0700" stop="20201008113000 +0700" channel="Trans 7">
+    <title lang="id">Selebrita Siang (L)</title>
+  </programme>
+  <programme start="20201008113000 +0700" stop="20201008120000 +0700" channel="Trans 7">
+    <title lang="id">Redaksi CNN Siang (L)</title>
+  </programme>
+  <programme start="20201008120000 +0700" stop="20201008123000 +0700" channel="Trans 7">
+    <title lang="id">Si Unyil</title>
+  </programme>
+  <programme start="20201008123000 +0700" stop="20201008130000 +0700" channel="Trans 7">
+    <title lang="id">Bocah Petualang</title>
+  </programme>
+  <programme start="20201008130000 +0700" stop="20201008133000 +0700" channel="Trans 7">
+    <title lang="id">Si Otan</title>
+  </programme>
+  <programme start="20201008133000 +0700" stop="20201008141500 +0700" channel="Trans 7">
+    <title lang="id">Tau Gak Sih?</title>
+  </programme>
+  <programme start="20201008141500 +0700" stop="20201008150000 +0700" channel="Trans 7">
+    <title lang="id">Jejak Anak Negeri</title>
+  </programme>
+  <programme start="20201008150000 +0700" stop="20201008160000 +0700" channel="Trans 7">
+    <title lang="id">Redaksi Sore (L)</title>
+  </programme>
+  <programme start="20201008160000 +0700" stop="20201008164500 +0700" channel="Trans 7">
+    <title lang="id">Jejak Si Gundul</title>
+  </programme>
+  <programme start="20201008164500 +0700" stop="20201008171500 +0700" channel="Trans 7">
+    <title lang="id">Makan Receh</title>
+  </programme>
+  <programme start="20201008171500 +0700" stop="20201008180000 +0700" channel="Trans 7">
+    <title lang="id">Seleb Expose</title>
+  </programme>
+  <programme start="20201008180000 +0700" stop="20201008190000 +0700" channel="Trans 7">
+    <title lang="id">Okay Bos</title>
+  </programme>
+  <programme start="20201008190000 +0700" stop="20201008200000 +0700" channel="Trans 7">
+    <title lang="id">On The Spot</title>
+  </programme>
+  <programme start="20201008200000 +0700" stop="20201008213000 +0700" channel="Trans 7">
+    <title lang="id">Opera Van Java</title>
+  </programme>
+  <programme start="20201008213000 +0700" stop="20201008223000 +0700" channel="Trans 7">
+    <title lang="id">Indonesia Giveaway</title>
+  </programme>
+  <programme start="20201008223000 +0700" stop="20201008233000 +0700" channel="Trans 7">
+    <title lang="id">The Police</title>
+  </programme>
+  <programme start="20201008233000 +0700" stop="20201009000000 +0700" channel="Trans 7">
+    <title lang="id">Redaksi Malam (L)</title>
+  </programme>
+  <programme start="20201008093000 +0700" stop="20201008103000 +0700" channel="Net TV">
+    <title lang="id">TikTokan</title>
+  </programme>
+  <programme start="20201008103000 +0700" stop="20201008110000 +0700" channel="Net TV">
+    <title lang="id">I Pop</title>
+  </programme>
+  <programme start="20201008110000 +0700" stop="20201008113000 +0700" channel="Net TV">
+    <title lang="id">Selamat Siang Indonesia</title>
+  </programme>
+  <programme start="20201008113000 +0700" stop="20201008120000 +0700" channel="Net TV">
+    <title lang="id">Teman Panji</title>
+  </programme>
+  <programme start="20201008120000 +0700" stop="20201008130000 +0700" channel="Net TV">
+    <title lang="id">Gua Yang Membeku</title>
+  </programme>
+  <programme start="20201008130000 +0700" stop="20201008140000 +0700" channel="Net TV">
+    <title lang="id">Rencana Tanpa Akhir</title>
+  </programme>
+  <programme start="20201008140000 +0700" stop="20201008150000 +0700" channel="Net TV">
+    <title lang="id">Warna-Warni Kerajaan</title>
+  </programme>
+  <programme start="20201008150000 +0700" stop="20201008160000 +0700" channel="Net TV">
+    <title lang="id">Diary Bahagia</title>
+  </programme>
+  <programme start="20201008160000 +0700" stop="20201008170000 +0700" channel="Net TV">
+    <title lang="id">The Return Of Superman</title>
+  </programme>
+  <programme start="20201008170000 +0700" stop="20201008180000 +0700" channel="Net TV">
+    <title lang="id">Pinnochio</title>
+  </programme>
+  <programme start="20201008180000 +0700" stop="20201008184500 +0700" channel="Net TV">
+    <title lang="id">Tawa-Tawa Santai</title>
+  </programme>
+  <programme start="20201008184500 +0700" stop="20201008210000 +0700" channel="Net TV">
+    <title lang="id">NET TV</title>
+  </programme>
+  <programme start="20201008210000 +0700" stop="20201008220000 +0700" channel="Net TV">
+    <title lang="id">Tonight Show</title>
+  </programme>
+  <programme start="20201008220000 +0700" stop="20201008230000 +0700" channel="Net TV">
+    <title lang="id">Malam-Malam</title>
+  </programme>
+  <programme start="20201008230000 +0700" stop="20201009000000 +0700" channel="Net TV">
+    <title lang="id">Jatanras</title>
+  </programme>
+  <programme start="20201008031000 +0000" stop="20201008033500 +0000" channel="Disney Junior USA - East">
+    <title lang="en">Puppy Dog Pals</title>
+    <desc lang="en">Bingo and Rolly search for the perfect pair of cowboy boots so Bob can go line dancing during his Texas road trip. Then, when Bob discovers the clock tower in a small town he's visiting is broken, the pugs go on a mission to fix it.(n)</desc>
+  </programme>
+  <programme start="20201008033500 +0000" stop="20201008040000 +0000" channel="Disney Junior USA - East">
+    <title lang="en">Puppy Dog Pals</title>
+    <desc lang="en">When Bob says he'd love to feel the sand on his toes, pug puppy brothers Bingo and Rolly go on a mission to Hawaii. Then, Bob introduces the pups to A.R.F., a robotic dog he created that is programmed to clean up their messes.(n)</desc>
+  </programme>
+  <programme start="20201008040000 +0000" stop="20201008043000 +0000" channel="Disney Junior USA - East">
+    <title lang="en">Mickey Mouse Roadster Racers</title>
+    <desc lang="en">On a winter ski trip with her friends, Daisy remembers that she doesn't know how to ski! Pete is worried that he won't be able to impress his Mama when she comes for a visit.(n)</desc>
+  </programme>
+  <programme start="20201008043000 +0000" stop="20201008045500 +0000" channel="Disney Junior USA - East">
+    <title lang="en">Mickey Mouse Roadster Racers</title>
+    <desc lang="en">Mickey wants to race the Haunted Hot Rod, a ghostly Roadster who only races on Halloween. The Happy Helpers try to catch three ghosts who threaten to ruin Pete's Halloween Party.(n)</desc>
+  </programme>
+  <programme start="20201008045500 +0000" stop="20201008052000 +0000" channel="Disney Junior USA - East">
+    <title lang="en">Puppy Dog Pals</title>
+    <desc lang="en">Bingo and Rolly head to Germany to replace the bird in Bob's cuckoo clock. While on a scuba vacation, the pugs search the coral reefs for Bob's lost diving flippers.(n)</desc>
+  </programme>
+  <programme start="20201008052000 +0000" stop="20201008055000 +0000" channel="Disney Junior USA - East">
+    <title lang="en">Puppy Dog Pals</title>
+    <desc lang="en">The pugs want to take Bob on his dream vacation to Tahiti; Bingo and Rolly search the golf course for Bob's missing ball.(n)</desc>
+  </programme>
+  <programme start="20201008055000 +0000" stop="20201008061500 +0000" channel="Disney Junior USA - East">
+    <title lang="en">PJ Masks</title>
+    <desc lang="en">Three friends turn into superheroes at night when they put on their pyjamas.(n)</desc>
+  </programme>
+  <programme start="20201008061500 +0000" stop="20201008064000 +0000" channel="Disney Junior USA - East">
+    <title lang="en">PJ Masks</title>
+    <desc lang="en">The PJ Masks face the newest villains in town: the Wolfies.(n)</desc>
+  </programme>
+  <programme start="20201008064000 +0000" stop="20201008071000 +0000" channel="Disney Junior USA - East">
+    <title lang="en">Puppy Dog Pals</title>
+    <desc lang="en">When treats go missing from the Puppy Playcare Halloween party, Bingo and Rolly set off on a mission to solve the mystery. When Bob leaves before he finishes raking, Bingo and Rolly set out to protect the leafy pile.(n)</desc>
+  </programme>
+  <programme start="20201008071000 +0000" stop="20201008072500 +0000" channel="Disney Junior USA - East">
+    <title lang="en">Puppy Dog Pals</title>
+    <desc lang="en">Two puppies who love to have fun take on adventures around their neighbourhood.(n)</desc>
+  </programme>
+  <programme start="20201008100000 +0700" stop="20201008100500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20201008100500 +0700" stop="20201008103000 +0700" channel="Berita Satu">
+    <title lang="id">Corporate Action</title>
+  </programme>
+  <programme start="20201008103000 +0700" stop="20201008110000 +0700" channel="Berita Satu">
+    <title lang="id">Fakta Data</title>
+  </programme>
+  <programme start="20201008110000 +0700" stop="20201008110500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20201008110500 +0700" stop="20201008120000 +0700" channel="Berita Satu">
+    <title lang="id">News On The Spot</title>
+  </programme>
+  <programme start="20201008120000 +0700" stop="20201008120500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20201008120500 +0700" stop="20201008130000 +0700" channel="Berita Satu">
+    <title lang="id">News On The Spot</title>
+  </programme>
+  <programme start="20201008130000 +0700" stop="20201008130500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20201008130500 +0700" stop="20201008140000 +0700" channel="Berita Satu">
+    <title lang="id">Zooming With Primus</title>
+  </programme>
+  <programme start="20201008140000 +0700" stop="20201008140500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20201008140500 +0700" stop="20201008143000 +0700" channel="Berita Satu">
+    <title lang="id">News Buzz</title>
+  </programme>
+  <programme start="20201008143000 +0700" stop="20201008150000 +0700" channel="Berita Satu">
+    <title lang="id">Closing Market</title>
+  </programme>
+  <programme start="20201008150000 +0700" stop="20201008150500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20201008150500 +0700" stop="20201008153000 +0700" channel="Berita Satu">
+    <title lang="id">Closing Market</title>
+  </programme>
+  <programme start="20201008153000 +0700" stop="20201008160000 +0700" channel="Berita Satu">
+    <title lang="id">COVID Update</title>
+  </programme>
+  <programme start="20201008160000 +0700" stop="20201008160500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20201008160500 +0700" stop="20201008163000 +0700" channel="Berita Satu">
+    <title lang="id">BeritaSatu Highlights</title>
+  </programme>
+  <programme start="20201008163000 +0700" stop="20201008170000 +0700" channel="Berita Satu">
+    <title lang="id">Prime Time</title>
+  </programme>
+  <programme start="20201008170000 +0700" stop="20201008170500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20201008170500 +0700" stop="20201008173000 +0700" channel="Berita Satu">
+    <title lang="id">Prime Time</title>
+  </programme>
+  <programme start="20201008173000 +0700" stop="20201008180000 +0700" channel="Berita Satu">
+    <title lang="id">Hot Economy</title>
+  </programme>
+  <programme start="20201008180000 +0700" stop="20201008180500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20201008180500 +0700" stop="20201008183000 +0700" channel="Berita Satu">
+    <title lang="id">Hot Economy</title>
+  </programme>
+  <programme start="20201008183000 +0700" stop="20201008190000 +0700" channel="Berita Satu">
+    <title lang="id">Connect 360</title>
+  </programme>
+  <programme start="20201008190000 +0700" stop="20201008190500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20201008190500 +0700" stop="20201008193000 +0700" channel="Berita Satu">
+    <title lang="id">Connect 360</title>
+  </programme>
+  <programme start="20201008193000 +0700" stop="20201008200000 +0700" channel="Berita Satu">
+    <title lang="id">Indepth</title>
+  </programme>
+  <programme start="20201008200000 +0700" stop="20201008200500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20201008200500 +0700" stop="20201008210000 +0700" channel="Berita Satu">
+    <title lang="id">New Normal</title>
+  </programme>
+  <programme start="20201008210000 +0700" stop="20201008210500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20201008210500 +0700" stop="20201008213000 +0700" channel="Berita Satu">
+    <title lang="id">Money Report</title>
+  </programme>
+  <programme start="20201008213000 +0700" stop="20201008220000 +0700" channel="Berita Satu">
+    <title lang="id">Prime Time</title>
+  </programme>
+  <programme start="20201008220000 +0700" stop="20201008220500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20201008220500 +0700" stop="20201008223000 +0700" channel="Berita Satu">
+    <title lang="id">Prime Time</title>
+  </programme>
+  <programme start="20201008223000 +0700" stop="20201008230000 +0700" channel="Berita Satu">
+    <title lang="id">Business Round Up</title>
+  </programme>
+  <programme start="20201008230000 +0700" stop="20201009000000 +0700" channel="Berita Satu">
+    <title lang="id">Corporate Action</title>
+  </programme>
+  <programme start="20201008093000 +0700" stop="20201008100500 +0700" channel="TVRI">
+    <title lang="id">Belajar Dari Rumah</title>
+  </programme>
+  <programme start="20201008100500 +0700" stop="20201008103000 +0700" channel="TVRI">
+    <title lang="id">Belajar Dari Rumah</title>
+  </programme>
+  <programme start="20201008103000 +0700" stop="20201008110000 +0700" channel="TVRI">
+    <title lang="id">Belajar Dari Rumah</title>
+  </programme>
+  <programme start="20201008110000 +0700" stop="20201008110300 +0700" channel="TVRI">
+    <title lang="id">Info Terkini</title>
+  </programme>
+  <programme start="20201008110300 +0700" stop="20201008120000 +0700" channel="TVRI">
+    <title lang="id">Indonesia Sehat</title>
+  </programme>
+  <programme start="20201008120000 +0700" stop="20201008130000 +0700" channel="TVRI">
+    <title lang="id">Klik Indonesia Siang</title>
+  </programme>
+  <programme start="20201008130000 +0700" stop="20201008133000 +0700" channel="TVRI">
+    <title lang="id">Rumah Bulu Tangkis</title>
+  </programme>
+  <programme start="20201008133000 +0700" stop="20201008140000 +0700" channel="TVRI">
+    <title lang="id">Jendela Dunia</title>
+  </programme>
+  <programme start="20201008140000 +0700" stop="20201008140300 +0700" channel="TVRI">
+    <title lang="id">Info Terkini</title>
+  </programme>
+  <programme start="20201008140300 +0700" stop="20201008143000 +0700" channel="TVRI">
+    <title lang="id">Pesona Indonesia</title>
+  </programme>
+  <programme start="20201008143000 +0700" stop="20201008150000 +0700" channel="TVRI">
+    <title lang="id">Inspirasi Indonesia</title>
+  </programme>
+  <programme start="20201008150000 +0700" stop="20201008150300 +0700" channel="TVRI">
+    <title lang="id">Info Terkini</title>
+  </programme>
+  <programme start="20201008150300 +0700" stop="20201008160000 +0700" channel="TVRI">
+    <title lang="id">Buah Hatiku Sayang</title>
+  </programme>
+  <programme start="20201008160000 +0700" stop="20201008170000 +0700" channel="TVRI">
+    <title lang="id">Info Terkini COVID 19</title>
+  </programme>
+  <programme start="20201008170000 +0700" stop="20201008173000 +0700" channel="TVRI">
+    <title lang="id">Mimbar Agama Budha</title>
+  </programme>
+  <programme start="20201008173000 +0700" stop="20201008180000 +0700" channel="TVRI">
+    <title lang="id">English News Service</title>
+  </programme>
+  <programme start="20201008180000 +0700" stop="20201008190000 +0700" channel="TVRI">
+    <title lang="id">Klik Indonesia Malam</title>
+  </programme>
+  <programme start="20201008190000 +0700" stop="20201008200000 +0700" channel="TVRI">
+    <title lang="id">Indonesia Bicara</title>
+  </programme>
+  <programme start="20201008200000 +0700" stop="20201008200300 +0700" channel="TVRI">
+    <title lang="id">Info Terkini</title>
+  </programme>
+  <programme start="20201008200300 +0700" stop="20201008210000 +0700" channel="TVRI">
+    <title lang="id">Musik Indonesia</title>
+  </programme>
+  <programme start="20201008210000 +0700" stop="20201008213000 +0700" channel="TVRI">
+    <title lang="id">Dunia Dalam Berita</title>
+  </programme>
+  <programme start="20201008213000 +0700" stop="20201008233000 +0700" channel="TVRI">
+    <title lang="id">MNC Shop</title>
+  </programme>
+  <programme start="20201008233000 +0700" stop="20201009000000 +0700" channel="TVRI">
+    <title lang="id">Inspirasi Indonesia</title>
+  </programme>
+  <programme start="20201008080000 +0700" stop="20201008110000 +0700" channel="CNBC">
+    <title lang="id">Street Signs Asia</title>
+  </programme>
+  <programme start="20201008110000 +0700" stop="20201008120000 +0700" channel="CNBC">
+    <title lang="id">Capital Connection</title>
+  </programme>
+  <programme start="20201008120000 +0700" stop="20201008150000 +0700" channel="CNBC">
+    <title lang="id">Squawk Box Europe</title>
+  </programme>
+  <programme start="20201008150000 +0700" stop="20201008160000 +0700" channel="CNBC">
+    <title lang="id">Street Signs Europe</title>
+  </programme>
+  <programme start="20201008160000 +0700" stop="20201008170000 +0700" channel="CNBC">
+    <title lang="id">Worldwide Exchange</title>
+  </programme>
+  <programme start="20201008170000 +0700" stop="20201008200000 +0700" channel="CNBC">
+    <title lang="id">Squawk Box US</title>
+  </programme>
+  <programme start="20201008200000 +0700" stop="20201008220000 +0700" channel="CNBC">
+    <title lang="id">Squawk On The Street</title>
+  </programme>
+  <programme start="20201008220000 +0700" stop="20201008230000 +0700" channel="CNBC">
+    <title lang="id">Squawk Alley US</title>
+  </programme>
+  <programme start="20201008230000 +0700" stop="20201009000000 +0700" channel="CNBC">
+    <title lang="id">Fast Money: Halftime Report</title>
+  </programme>
+  <programme start="20201008095000 +0700" stop="20201008103200 +0700" channel="One HD">
+    <title lang="id">Fabulous Neighbour</title>
+  </programme>
+  <programme start="20201008103200 +0700" stop="20201008111500 +0700" channel="One HD">
+    <title lang="id">Fabulous Neighbour</title>
+  </programme>
+  <programme start="20201008111500 +0700" stop="20201008120000 +0700" channel="One HD">
+    <title lang="id">Wanna Taste?</title>
+  </programme>
+  <programme start="20201008120000 +0700" stop="20201008124500 +0700" channel="One HD">
+    <title lang="id">Wanna Taste?</title>
+  </programme>
+  <programme start="20201008124500 +0700" stop="20201008132600 +0700" channel="One HD">
+    <title lang="id">Secret Boutique</title>
+  </programme>
+  <programme start="20201008132600 +0700" stop="20201008140500 +0700" channel="One HD">
+    <title lang="id">Secret Boutique</title>
+  </programme>
+  <programme start="20201008140500 +0700" stop="20201008142000 +0700" channel="One HD">
+    <title lang="id">K-Hits</title>
+  </programme>
+  <programme start="20201008142000 +0700" stop="20201008153500 +0700" channel="One HD">
+    <title lang="id">Good Witch</title>
+  </programme>
+  <programme start="20201008153500 +0700" stop="20201008164500 +0700" channel="One HD">
+    <title lang="id">Madly In Love</title>
+  </programme>
+  <programme start="20201008164500 +0700" stop="20201008175500 +0700" channel="One HD">
+    <title lang="id">Madly In Love</title>
+  </programme>
+  <programme start="20201008175500 +0700" stop="20201008183400 +0700" channel="One HD">
+    <title lang="id">Secret Boutique</title>
+  </programme>
+  <programme start="20201008183400 +0700" stop="20201008191000 +0700" channel="One HD">
+    <title lang="id">Secret Boutique</title>
+  </programme>
+  <programme start="20201008191000 +0700" stop="20201008202500 +0700" channel="One HD">
+    <title lang="id">Good Witch</title>
+  </programme>
+  <programme start="20201008202500 +0700" stop="20201008211000 +0700" channel="One HD">
+    <title lang="id">Wanna Taste?</title>
+  </programme>
+  <programme start="20201008211000 +0700" stop="20201008220000 +0700" channel="One HD">
+    <title lang="id">Wanna Taste?</title>
+  </programme>
+  <programme start="20201008220000 +0700" stop="20201008233500 +0700" channel="One HD">
+    <title lang="id">Master In The House</title>
+  </programme>
+  <programme start="20201008233500 +0700" stop="20201008234500 +0700" channel="One HD">
+    <title lang="id">K-Hits</title>
+  </programme>
+  <programme start="20201008234500 +0700" stop="20201009005500 +0700" channel="One HD">
+    <title lang="id">Good Witch</title>
   </programme>
 </tv>
