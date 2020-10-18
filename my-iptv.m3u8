@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST:rickyrsn
 #EXTINF:0 tvg-country="UK" tvg-logo="" group-title="Sport",Dorna MotoGP HD
-https://cdn1motogpcom.akamaized.net/hls/ipfmix/4.m3u8
+https://cdn1motogpcom.akamaized.net/hls/ipfmix/4.m3u8?token=st=1603024131~exp=1603036802~acl=/hls/ipfmix/*~hmac=8ff4f8791c1987726ad11a653edd7b3b1d00def466810ae8ab8c1536f75e291b
 #EXTINF:0 tvg-country="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/BTSPORT_2_BLACK_RGB.png" group-title="Sport",BT SPORT 2 HD
 http://cdn3.totalhdsport.xyz/live/abr_ch2/live/ch2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTAvMjAyMCA2OjQwOjU5IEFNJmhhc2hfdmFsdWU9cnlYOFJGSVREWWZxTyt1R3BPR3hsQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTU5LjY1LjIyNC4xMzMmc3RybV9sZW49NQ==
 #EXTINF:0 tvg-country="UK" tvg-logo="" group-title="Kids",Nick Jr
