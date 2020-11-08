@@ -1,11 +1,9 @@
 #EXTM3U
 #PLAYLIST:rickyrsn
 #EXTINF:0 tvg-country="UK" tvg-logo="" group-title="Sport",Dorna MotoGP HD
-https://cdn1motogpcom.akamaized.net/hls/ipfmix_b/4.m3u8?token=st=1604839014~exp=1604851202~acl=/hls/ipfmix_b/*~hmac=714ee7eb77206d682cb1a432d6a831bdde46dcca6e0604dc38276266f681fd33&start=1604822100&
+https://cdn4.motogp.com/hls/ipfmix_b/2/1604837256000.ts?token=1604851202_9ca77790b3f2a7ba2b4f542abfd16b9be4e4a392
 #EXTINF:0 tvg-country="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/BTSPORT_2_BLACK_RGB.png" group-title="Sport",BT SPORT 2 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/234228?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/BTSPORT_2_BLACK_RGB.png" group-title="Sport",BT SPORT 2 FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30332?checkedby:hlscat.com
+http://cdn3.totalhdsport.xyz/live/abr_ch2/live/ch2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTAvMjAyMCA2OjQwOjU5IEFNJmhhc2hfdmFsdWU9cnlYOFJGSVREWWZxTyt1R3BPR3hsQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTU5LjY1LjIyNC4xMzMmc3RybV9sZW49NQ==
 #EXTINF:0 tvg-country="UK" tvg-logo="" group-title="Kids",Nick Jr
 http://ingrid.ltd:25461/frank1/frank/3380?checkedby:hlscat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Kids",Disney Junior USA - East
