@@ -40,76 +40,16 @@
     <display-name lang="id">One HD</display-name>
     <url>http://www.mncvision.id.E</url>
   </channel>
-  <programme start="20201108190000 +0700" stop="20201108200000 +0700" channel="TRANS TV">
-    <title lang="id">Rejeki Orang Sholeh</title>
-  </programme>
-  <programme start="20201108200000 +0700" stop="20201108220000 +0700" channel="TRANS TV">
-    <title lang="id">Bioskop Spesial Trans TV</title>
-  </programme>
-  <programme start="20201108220000 +0700" stop="20201109000000 +0700" channel="TRANS TV">
+  <programme start="20210127233000 +0700" stop="20210128013000 +0700" channel="TRANS TV">
     <title lang="id">Bioskop Trans TV</title>
   </programme>
-  <programme start="20201108190000 +0700" stop="20201108190500 +0700" channel="Metro TV">
-    <title lang="id">Headline News</title>
+  <programme start="20210127233000 +0700" stop="20210128000000 +0700" channel="Metro TV">
+    <title lang="id">Primetime News</title>
   </programme>
-  <programme start="20201108190500 +0700" stop="20201108200000 +0700" channel="Metro TV">
-    <title lang="id">Kick Andy</title>
+  <programme start="20210127233000 +0700" stop="20210128000000 +0700" channel="Trans 7">
+    <title lang="id">Sport 7</title>
   </programme>
-  <programme start="20201108200000 +0700" stop="20201108200500 +0700" channel="Metro TV">
-    <title lang="id">Headline News</title>
-  </programme>
-  <programme start="20201108200500 +0700" stop="20201108203000 +0700" channel="Metro TV">
-    <title lang="id">Kick Andy</title>
-  </programme>
-  <programme start="20201108203000 +0700" stop="20201108210000 +0700" channel="Metro TV">
-    <title lang="id">Beranda Pak RT</title>
-  </programme>
-  <programme start="20201108210000 +0700" stop="20201108210500 +0700" channel="Metro TV">
-    <title lang="id">Headline News</title>
-  </programme>
-  <programme start="20201108210500 +0700" stop="20201108220000 +0700" channel="Metro TV">
-    <title lang="id">Top News</title>
-  </programme>
-  <programme start="20201108220000 +0700" stop="20201108220500 +0700" channel="Metro TV">
-    <title lang="id">Headline News</title>
-  </programme>
-  <programme start="20201108220500 +0700" stop="20201108223000 +0700" channel="Metro TV">
-    <title lang="id">Metro Sport</title>
-  </programme>
-  <programme start="20201108223000 +0700" stop="20201108230000 +0700" channel="Metro TV">
-    <title lang="id">Metro Malam</title>
-  </programme>
-  <programme start="20201108230000 +0700" stop="20201108230500 +0700" channel="Metro TV">
-    <title lang="id">Headline News</title>
-  </programme>
-  <programme start="20201108230500 +0700" stop="20201108233000 +0700" channel="Metro TV">
-    <title lang="id">Metro Malam</title>
-  </programme>
-  <programme start="20201108233000 +0700" stop="20201109000000 +0700" channel="Metro TV">
-    <title lang="id">Metro This Week</title>
-  </programme>
-  <programme start="20201108180000 +0700" stop="20201108210000 +0700" channel="Trans 7">
-    <title lang="id">MotoGP 2020</title>
-  </programme>
-  <programme start="20201108210000 +0700" stop="20201108223000 +0700" channel="Trans 7">
-    <title lang="id">Opera Van Java</title>
-  </programme>
-  <programme start="20201108223000 +0700" stop="20201109003000 +0700" channel="Trans 7">
-    <title lang="id">K-Movievaganza</title>
-  </programme>
-  <programme start="20201108180000 +0700" stop="20201108193000 +0700" channel="Net TV">
-    <title lang="id">Like It</title>
-  </programme>
-  <programme start="20201108193000 +0700" stop="20201108203000 +0700" channel="Net TV">
-    <title lang="id">Tawa-Tawa Santai</title>
-  </programme>
-  <programme start="20201108203000 +0700" stop="20201108231500 +0700" channel="Net TV">
-    <title lang="id">NET TV</title>
-  </programme>
-  <programme start="20201108231500 +0700" stop="20201108233000 +0700" channel="Net TV">
-    <title lang="id">Tawa-Tawa Santai</title>
-  </programme>
-  <programme start="20201108233000 +0700" stop="20201109020000 +0700" channel="Net TV">
-    <title lang="id">NET TV</title>
+  <programme start="20210127233000 +0700" stop="20210128003000 +0700" channel="Net TV">
+    <title lang="id">Jatanras</title>
   </programme>
 </tv>
