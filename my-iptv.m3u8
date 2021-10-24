@@ -1,8 +1,7 @@
 #EXTM3U
 #PLAYLIST:rickyrsn
 #EXTINF:0 tvg-country="UK" tvg-logo="" group-title="Sport",Dorna MotoGP HD
-https://cdn1motogpcom.akamaized.net/hls/ipfmix_b/4.m3u8?token=st=1604839014~exp=1604851202~acl=/hls/ipfmix_b/*~hmac=714ee7eb77206d682cb1a432d6a831bdde46dcca6e0604dc38276266f681fd33&start=1604822100&
-#EXTINF:0 tvg-country="UK" tvg-logo="https://en.wikipedia.org/wiki/BT_Sport#/media/File:BT_Sport_logo_2019.svg" group-title="Sport",BT SPORT 1 HD
+https://dornatoken.secure.footprint.net/token=nva=1635099109~dirs=2~ip=117.215.250.7~data=Q0O5KL9D%252FO%252BjBb%252F3HYQljIUKth7JQSYibwsncvk%252B1lYm85dUMil8dOnCAyVd18GS~token=0059fd7996380bed2ef13/hls/ipfmix/4.m3u8?start=0&#EXTINF:0 tvg-country="UK" tvg-logo="https://en.wikipedia.org/wiki/BT_Sport#/media/File:BT_Sport_logo_2019.svg" group-title="Sport",BT SPORT 1 HD
 https://list.iptvcat.com/my_list/s/e18071113b29b674d6800ceb7a919cdf.m3u8
 #EXTINF:0 tvg-country="UK" tvg-logo="https://en.wikipedia.org/wiki/BT_Sport#/media/File:BT_Sport_logo_2019.svg" group-title="Sport",BT SPORT 2 HD
 https://list.iptvcat.com/my_list/s/942cf5eb8329a7d9d105b0f4db616e98.m3u8
