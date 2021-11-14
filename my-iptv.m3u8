@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST:rickyrsn
 #EXTINF:0 tvg-country="UK" tvg-logo="" group-title="Sport",Dorna MotoGP HD
-https://dornatoken.secure.footprint.net/token=nva=1636304158~dirs=2~ip=91.207.60.26~data=mNcLAuk4NaQYyXlu35oVQwh6DVouGEhLNdgJ2zV1d6%252BbbhdKt1SvBx8RfQyXOouc~token=0932e7b139c8310b3051a/hls/ipfmix/4.m3u8?start=0&
+https://dornatoken.secure.footprint.net/token=nva=1636903410~dirs=2~ip=159.89.130.235~data=a88llafbtU27dQW%252FvwNF0XmyF0OkO2u6nutcMT5SOsr56IgTMbMSiOdEf3Wl2M%252B5~token=00ea5f6ae01c4f186ea85/hls/ipfmix/4.m3u8?start=0&
 #EXTINF:0 tvg-country="UK" tvg-logo="https://en.wikipedia.org/wiki/BT_Sport#/media/File:BT_Sport_logo_2019.svg" group-title="Sport",BT SPORT 1 HD
 https://list.iptvcat.com/my_list/s/e18071113b29b674d6800ceb7a919cdf.m3u8
 #EXTINF:0 tvg-country="UK" tvg-logo="https://en.wikipedia.org/wiki/BT_Sport#/media/File:BT_Sport_logo_2019.svg" group-title="Sport",BT SPORT 2 HD
